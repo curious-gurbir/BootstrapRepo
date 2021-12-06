@@ -1,0 +1,7899 @@
+{
+    "data": [
+        {
+            "city": "Aalborg",
+            "country": "Denmark",
+            "code": "AAL"
+        },
+        {
+            "city": "Aalesund",
+            "country": "Norway",
+            "code": "AES"
+        },
+        {
+            "city": "Aarhus",
+            "country": "Denmark",
+            "code": "AAR"
+        },
+        {
+            "city": "Abbotsford,BC",
+            "country": "Canada",
+            "code": "YXX"
+        },
+        {
+            "city": "Abbotsford,BC",
+            "country": "Canada",
+            "code": "YXX"
+        },
+        {
+            "city": "Aberdeen",
+            "country": "Scotland",
+            "code": "ABZ"
+        },
+        {
+            "city": "Aberdeen,SD",
+            "country": "USA",
+            "code": "ABR"
+        },
+        {
+            "city": "Abidjan",
+            "country": "IvoryCoast",
+            "code": "ABJ"
+        },
+        {
+            "city": "Abilene,TX",
+            "country": "USA",
+            "code": "ABI"
+        },
+        {
+            "city": "AbuDhabi",
+            "country": "UnitedArabEmirates",
+            "code": "AUH"
+        },
+        {
+            "city": "Abuja",
+            "country": "Nigeria",
+            "code": "ABV"
+        },
+        {
+            "city": "Acapulco",
+            "country": "Mexico",
+            "code": "ACA"
+        },
+        {
+            "city": "Accra",
+            "country": "Ghana",
+            "code": "ACC"
+        },
+        {
+            "city": "Adana",
+            "country": "Turkey",
+            "code": "ADA"
+        },
+        {
+            "city": "AddisAbaba",
+            "country": "Ethiopia",
+            "code": "ADD"
+        },
+        {
+            "city": "Adelaide,S.A.",
+            "country": "Australia",
+            "code": "ADL"
+        },
+        {
+            "city": "Aden",
+            "country": "Yemen",
+            "code": "ADE"
+        },
+        {
+            "city": "Adiyaman",
+            "country": "Turkey",
+            "code": "ADF"
+        },
+        {
+            "city": "Agadir",
+            "country": "Morocco",
+            "code": "AGA"
+        },
+        {
+            "city": "Agana",
+            "country": "Guam",
+            "code": "GUM"
+        },
+        {
+            "city": "Aguadilla",
+            "country": "PuertoRico",
+            "code": "BQN"
+        },
+        {
+            "city": "Aguascalientes",
+            "country": "Mexico",
+            "code": "AGU"
+        },
+        {
+            "city": "Ahe",
+            "country": "FrenchPolynesia",
+            "code": "AHE"
+        },
+        {
+            "city": "Ahmedabad",
+            "country": "India",
+            "code": "AMD"
+        },
+        {
+            "city": "Ajaccio,Corsica",
+            "country": "France",
+            "code": "AJA"
+        },
+        {
+            "city": "Akita",
+            "country": "Japan",
+            "code": "AXT"
+        },
+        {
+            "city": "Akron,OH",
+            "country": "USA",
+            "code": "CAK"
+        },
+        {
+            "city": "Alamosa,CO",
+            "country": "USA",
+            "code": "ALS"
+        },
+        {
+            "city": "Albany,GA",
+            "country": "USA",
+            "code": "ABY"
+        },
+        {
+            "city": "Albany,NY",
+            "country": "USA",
+            "code": "ALB"
+        },
+        {
+            "city": "Albenga",
+            "country": "Italy",
+            "code": "ALL"
+        },
+        {
+            "city": "Albuquerque,NM",
+            "country": "USA",
+            "code": "ABQ"
+        },
+        {
+            "city": "Albury,N.S.W.",
+            "country": "Australia",
+            "code": "ABX"
+        },
+        {
+            "city": "Alexandria",
+            "country": "Egypt",
+            "code": "ALY"
+        },
+        {
+            "city": "Alexandria",
+            "country": "Egypt",
+            "code": "HBE"
+        },
+        {
+            "city": "Alexandria,LA",
+            "country": "USA",
+            "code": "AEX"
+        },
+        {
+            "city": "Alexandroupolis",
+            "country": "Greece",
+            "code": "AXD"
+        },
+        {
+            "city": "Alghero,Sardinia",
+            "country": "Italy",
+            "code": "AHO"
+        },
+        {
+            "city": "Algiers",
+            "country": "Algeria",
+            "code": "ALG"
+        },
+        {
+            "city": "Alicante",
+            "country": "Spain",
+            "code": "ALC"
+        },
+        {
+            "city": "AliceSprings,N.T.",
+            "country": "Australia",
+            "code": "ASP"
+        },
+        {
+            "city": "AliceTown,NorthBiminiIsland",
+            "country": "Bahamas",
+            "code": "NSB"
+        },
+        {
+            "city": "Allentown,PA",
+            "country": "USA",
+            "code": "ABE"
+        },
+        {
+            "city": "Alliance,NE",
+            "country": "USA",
+            "code": "AIA"
+        },
+        {
+            "city": "Almaty",
+            "country": "Kazakhstan",
+            "code": "ALA"
+        },
+        {
+            "city": "Almeria",
+            "country": "Spain",
+            "code": "LEI"
+        },
+        {
+            "city": "AlorSetar",
+            "country": "Malaysia",
+            "code": "AOR"
+        },
+        {
+            "city": "Alpena,MI",
+            "country": "USA",
+            "code": "APN"
+        },
+        {
+            "city": "Alta",
+            "country": "Norway",
+            "code": "ALF"
+        },
+        {
+            "city": "Altenrhein",
+            "country": "Switzerland",
+            "code": "ACH"
+        },
+        {
+            "city": "Altoona,PA",
+            "country": "USA",
+            "code": "AOO"
+        },
+        {
+            "city": "Amarillo,TX",
+            "country": "USA",
+            "code": "AMA"
+        },
+        {
+            "city": "Amman",
+            "country": "Jordan",
+            "code": "AMM"
+        },
+        {
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "code": "AMS"
+        },
+        {
+            "city": "AnahimLake,BC",
+            "country": "Canada",
+            "code": "YAA"
+        },
+        {
+            "city": "AnahimLake,BC",
+            "country": "Canada",
+            "code": "YAA"
+        },
+        {
+            "city": "Anchorage,AK",
+            "country": "USA",
+            "code": "ANC"
+        },
+        {
+            "city": "Ancona",
+            "country": "Italy",
+            "code": "AOI"
+        },
+        {
+            "city": "AndrosTown",
+            "country": "Bahamas",
+            "code": "ASD"
+        },
+        {
+            "city": "AngelesCity",
+            "country": "Philippines",
+            "code": "CRK"
+        },
+        {
+            "city": "AngradoHeroismo,TerceiraIsland",
+            "country": "Azores",
+            "code": "TER"
+        },
+        {
+            "city": "Ankara",
+            "country": "Turkey",
+            "code": "ESB"
+        },
+        {
+            "city": "Annaba",
+            "country": "Algeria",
+            "code": "AAE"
+        },
+        {
+            "city": "Annecy",
+            "country": "France",
+            "code": "NCY"
+        },
+        {
+            "city": "Antalya",
+            "country": "Turkey",
+            "code": "AYT"
+        },
+        {
+            "city": "Antananarivo",
+            "country": "Madagascar",
+            "code": "TNR"
+        },
+        {
+            "city": "Antofagasta",
+            "country": "Chile",
+            "code": "ANF"
+        },
+        {
+            "city": "Antwerp",
+            "country": "Belgium",
+            "code": "ANR"
+        },
+        {
+            "city": "Aomori",
+            "country": "Japan",
+            "code": "AOJ"
+        },
+        {
+            "city": "Aosta",
+            "country": "Italy",
+            "code": "AOT"
+        },
+        {
+            "city": "Appleton,WI",
+            "country": "USA",
+            "code": "ATW"
+        },
+        {
+            "city": "Ardabil",
+            "country": "Iran",
+            "code": "ADU"
+        },
+        {
+            "city": "Arequipa",
+            "country": "Peru",
+            "code": "AQP"
+        },
+        {
+            "city": "Argostoli,KefaloniaIsland",
+            "country": "Greece",
+            "code": "EFL"
+        },
+        {
+            "city": "Arica",
+            "country": "Chile",
+            "code": "ARI"
+        },
+        {
+            "city": "Arkhangelsk",
+            "country": "Russia",
+            "code": "ARH"
+        },
+        {
+            "city": "Armidale,N.S.W.",
+            "country": "Australia",
+            "code": "ARM"
+        },
+        {
+            "city": "Arrecife,LanzaroteIsland",
+            "country": "CanaryIslands",
+            "code": "ACE"
+        },
+        {
+            "city": "Arusha",
+            "country": "Tanzania",
+            "code": "ARK"
+        },
+        {
+            "city": "Arviat,NWT",
+            "country": "Canada",
+            "code": "YEK"
+        },
+        {
+            "city": "Arviat,NWT",
+            "country": "Canada",
+            "code": "YEK"
+        },
+        {
+            "city": "Arvidsjaur",
+            "country": "Sweden",
+            "code": "AJR"
+        },
+        {
+            "city": "Asheville,NC",
+            "country": "USA",
+            "code": "AVL"
+        },
+        {
+            "city": "Asmara",
+            "country": "Eritrea",
+            "code": "ASM"
+        },
+        {
+            "city": "Aspen,CO",
+            "country": "USA",
+            "code": "ASE"
+        },
+        {
+            "city": "Astana",
+            "country": "Kazakhstan",
+            "code": "TSE"
+        },
+        {
+            "city": "Asuncion",
+            "country": "Paraguay",
+            "code": "ASU"
+        },
+        {
+            "city": "Aswan",
+            "country": "Egypt",
+            "code": "ASW"
+        },
+        {
+            "city": "Athens",
+            "country": "Greece",
+            "code": "ATH"
+        },
+        {
+            "city": "Athens,GA",
+            "country": "USA",
+            "code": "AHN"
+        },
+        {
+            "city": "Atlanta,GA",
+            "country": "USA",
+            "code": "ATL"
+        },
+        {
+            "city": "AtlanticCity,NJ",
+            "country": "USA",
+            "code": "ACY"
+        },
+        {
+            "city": "Auckland",
+            "country": "NewZealand",
+            "code": "AKL"
+        },
+        {
+            "city": "Augusta,GA",
+            "country": "USA",
+            "code": "AGS"
+        },
+        {
+            "city": "Augusta,ME",
+            "country": "USA",
+            "code": "AUG"
+        },
+        {
+            "city": "Austin,TX",
+            "country": "USA",
+            "code": "AUS"
+        },
+        {
+            "city": "Avarua,RarotongaIsland",
+            "country": "CookIslands",
+            "code": "RAR"
+        },
+        {
+            "city": "AyersRock,N.T.",
+            "country": "Australia",
+            "code": "AYQ"
+        },
+        {
+            "city": "Bacolod",
+            "country": "Philippines",
+            "code": "BCD"
+        },
+        {
+            "city": "Badajoz",
+            "country": "Spain",
+            "code": "BJZ"
+        },
+        {
+            "city": "Baghdad",
+            "country": "Iraq",
+            "code": "SDA"
+        },
+        {
+            "city": "Bagotville,PQ",
+            "country": "Canada",
+            "code": "YBG"
+        },
+        {
+            "city": "Bagotville,PQ",
+            "country": "Canada",
+            "code": "YBG"
+        },
+        {
+            "city": "Baie-Comeau,PQ",
+            "country": "Canada",
+            "code": "YBC"
+        },
+        {
+            "city": "Baie-Comeau,PQ",
+            "country": "Canada",
+            "code": "YBC"
+        },
+        {
+            "city": "Bakersfield,CA",
+            "country": "USA",
+            "code": "BFL"
+        },
+        {
+            "city": "Baku",
+            "country": "Azerbaijan",
+            "code": "BAK"
+        },
+        {
+            "city": "Baku",
+            "country": "Azerbaijan",
+            "code": "GYD"
+        },
+        {
+            "city": "Balaton",
+            "country": "Hungary",
+            "code": "SOB"
+        },
+        {
+            "city": "Balephuil",
+            "country": "Scotland",
+            "code": "TRE"
+        },
+        {
+            "city": "Balikpapan,Kalimantan",
+            "country": "Indonesia",
+            "code": "BPN"
+        },
+        {
+            "city": "Ballina,N.S.W.",
+            "country": "Australia",
+            "code": "BNK"
+        },
+        {
+            "city": "Balmaceda",
+            "country": "Chile",
+            "code": "BBA"
+        },
+        {
+            "city": "Baltimore,MD",
+            "country": "USA",
+            "code": "BWI"
+        },
+        {
+            "city": "BanMeThuot",
+            "country": "Vietnam",
+            "code": "BMV"
+        },
+        {
+            "city": "BandarSeriBegawan",
+            "country": "Brunei",
+            "code": "BWN"
+        },
+        {
+            "city": "Bangalore",
+            "country": "India",
+            "code": "BLR"
+        },
+        {
+            "city": "Bangda",
+            "country": "China",
+            "code": "BPX"
+        },
+        {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "code": "BKK"
+        },
+        {
+            "city": "Bangor,ME",
+            "country": "USA",
+            "code": "BGR"
+        },
+        {
+            "city": "Bangui",
+            "country": "CentralAfricanRepublic",
+            "code": "BGF"
+        },
+        {
+            "city": "Banjul",
+            "country": "Gambia",
+            "code": "BJL"
+        },
+        {
+            "city": "BarHarbor,ME",
+            "country": "USA",
+            "code": "BHB"
+        },
+        {
+            "city": "Barcelona",
+            "country": "Spain",
+            "code": "BCN"
+        },
+        {
+            "city": "Bardufoss",
+            "country": "Norway",
+            "code": "BDU"
+        },
+        {
+            "city": "Bari",
+            "country": "Italy",
+            "code": "BRI"
+        },
+        {
+            "city": "Barisal",
+            "country": "Bangladesh",
+            "code": "BZL"
+        },
+        {
+            "city": "Barranquilla",
+            "country": "Colombia",
+            "code": "BAQ"
+        },
+        {
+            "city": "Barrow,AK",
+            "country": "USA",
+            "code": "BRW"
+        },
+        {
+            "city": "Basel",
+            "country": "Switzerland",
+            "code": "BSL"
+        },
+        {
+            "city": "Basseterre",
+            "country": "St.Kitts",
+            "code": "SKB"
+        },
+        {
+            "city": "Bastia,Corsica",
+            "country": "France",
+            "code": "BIA"
+        },
+        {
+            "city": "Bathurst,N.S.W.",
+            "country": "Australia",
+            "code": "BHS"
+        },
+        {
+            "city": "BatonRouge,LA",
+            "country": "USA",
+            "code": "BTR"
+        },
+        {
+            "city": "Bauru",
+            "country": "Brazil",
+            "code": "BAU"
+        },
+        {
+            "city": "Beaumont,TX",
+            "country": "USA",
+            "code": "BPT"
+        },
+        {
+            "city": "Beauvais",
+            "country": "France",
+            "code": "BVA"
+        },
+        {
+            "city": "Beckley,WV",
+            "country": "USA",
+            "code": "BKW"
+        },
+        {
+            "city": "Bedford,MA",
+            "country": "USA",
+            "code": "BED"
+        },
+        {
+            "city": "BeefIsland,Tortola",
+            "country": "BritishVirginIslands",
+            "code": "EIS"
+        },
+        {
+            "city": "Beijing",
+            "country": "China",
+            "code": "BJS"
+        },
+        {
+            "city": "Beirut",
+            "country": "Lebanon",
+            "code": "BEY"
+        },
+        {
+            "city": "Belem",
+            "country": "Brazil",
+            "code": "BEL"
+        },
+        {
+            "city": "Belfast",
+            "country": "NorthernIreland",
+            "code": "BFS"
+        },
+        {
+            "city": "Belfast",
+            "country": "NorthernIreland",
+            "code": "BHD"
+        },
+        {
+            "city": "Belgrade",
+            "country": "SerbiaandMontenegro",
+            "code": "BEG"
+        },
+        {
+            "city": "BelizeCity",
+            "country": "Belize",
+            "code": "BZE"
+        },
+        {
+            "city": "Bellingham,WA",
+            "country": "USA",
+            "code": "BLI"
+        },
+        {
+            "city": "BeloHorizonte",
+            "country": "Brazil",
+            "code": "CNF"
+        },
+        {
+            "city": "Bemidji,MN",
+            "country": "USA",
+            "code": "BJI"
+        },
+        {
+            "city": "Benbecula",
+            "country": "Scotland",
+            "code": "BEB"
+        },
+        {
+            "city": "Benguela",
+            "country": "Angola",
+            "code": "BUG"
+        },
+        {
+            "city": "Bergen",
+            "country": "Norway",
+            "code": "BGO"
+        },
+        {
+            "city": "Berlin",
+            "country": "Germany",
+            "code": "BER-AllAirports"
+        },
+        {
+            "city": "Berlin",
+            "country": "Germany",
+            "code": "SXF"
+        },
+        {
+            "city": "Berlin",
+            "country": "Germany",
+            "code": "THF"
+        },
+        {
+            "city": "Berlin",
+            "country": "Germany",
+            "code": "TXL"
+        },
+        {
+            "city": "Berne",
+            "country": "Switzerland",
+            "code": "BRN"
+        },
+        {
+            "city": "Bethel,AK",
+            "country": "USA",
+            "code": "BET"
+        },
+        {
+            "city": "Bettles,AK",
+            "country": "USA",
+            "code": "BTT"
+        },
+        {
+            "city": "Biak,Papua",
+            "country": "Indonesia",
+            "code": "BIK"
+        },
+        {
+            "city": "Biarritz",
+            "country": "France",
+            "code": "BIQ"
+        },
+        {
+            "city": "Bilbao",
+            "country": "Spain",
+            "code": "BIO"
+        },
+        {
+            "city": "Billings,MT",
+            "country": "USA",
+            "code": "BIL"
+        },
+        {
+            "city": "Billund",
+            "country": "Denmark",
+            "code": "BLL"
+        },
+        {
+            "city": "Binghamton,NY",
+            "country": "USA",
+            "code": "BGM"
+        },
+        {
+            "city": "Bintulu,Sarawak",
+            "country": "Malaysia",
+            "code": "BTU"
+        },
+        {
+            "city": "Birmingham",
+            "country": "England",
+            "code": "BHX"
+        },
+        {
+            "city": "Birmingham,AL",
+            "country": "USA",
+            "code": "BHM"
+        },
+        {
+            "city": "Bishkek",
+            "country": "Kyrgyzstan",
+            "code": "FRU"
+        },
+        {
+            "city": "Bismarck,ND",
+            "country": "USA",
+            "code": "BIS"
+        },
+        {
+            "city": "Bissau",
+            "country": "Guinea-Bissau",
+            "code": "OXB"
+        },
+        {
+            "city": "Blantyre",
+            "country": "Malawi",
+            "code": "BLZ"
+        },
+        {
+            "city": "Blenheim",
+            "country": "NewZealand",
+            "code": "BHE"
+        },
+        {
+            "city": "Bloemfontein",
+            "country": "SouthAfrica",
+            "code": "BFN"
+        },
+        {
+            "city": "Bloomington,IL",
+            "country": "USA",
+            "code": "BMI"
+        },
+        {
+            "city": "Bloomington,IN",
+            "country": "USA",
+            "code": "BMG"
+        },
+        {
+            "city": "Bluefield,WV",
+            "country": "USA",
+            "code": "BLF"
+        },
+        {
+            "city": "Bodo",
+            "country": "Norway",
+            "code": "BOO"
+        },
+        {
+            "city": "Bogota",
+            "country": "Colombia",
+            "code": "BOG"
+        },
+        {
+            "city": "Boise,ID",
+            "country": "USA",
+            "code": "BOI"
+        },
+        {
+            "city": "Bologna",
+            "country": "Italy",
+            "code": "BLQ"
+        },
+        {
+            "city": "Bolzano",
+            "country": "Italy",
+            "code": "BZO"
+        },
+        {
+            "city": "Bordeaux",
+            "country": "France",
+            "code": "BOD"
+        },
+        {
+            "city": "Borlange",
+            "country": "Sweden",
+            "code": "BLE"
+        },
+        {
+            "city": "Boston,MA",
+            "country": "USA",
+            "code": "BOS"
+        },
+        {
+            "city": "Bozeman,MT",
+            "country": "USA",
+            "code": "BZN"
+        },
+        {
+            "city": "Brasilia",
+            "country": "Brazil",
+            "code": "BSB"
+        },
+        {
+            "city": "Bratislava",
+            "country": "Slovakia",
+            "code": "BTS"
+        },
+        {
+            "city": "Brazzaville",
+            "country": "Congo",
+            "code": "BZV"
+        },
+        {
+            "city": "Bremen",
+            "country": "Germany",
+            "code": "BRE"
+        },
+        {
+            "city": "Brest",
+            "country": "France",
+            "code": "BES"
+        },
+        {
+            "city": "Bridgetown",
+            "country": "Barbados",
+            "code": "BGI"
+        },
+        {
+            "city": "Brindisi",
+            "country": "Italy",
+            "code": "BDS"
+        },
+        {
+            "city": "Brisbane,Qld.",
+            "country": "Australia",
+            "code": "BNE"
+        },
+        {
+            "city": "Bristol",
+            "country": "England",
+            "code": "BRS"
+        },
+        {
+            "city": "BrokenHill,N.S.W.",
+            "country": "Australia",
+            "code": "BHQ"
+        },
+        {
+            "city": "Brookings,SD",
+            "country": "USA",
+            "code": "BKX"
+        },
+        {
+            "city": "Broome,W.A.",
+            "country": "Australia",
+            "code": "BME"
+        },
+        {
+            "city": "Brownsville,TX",
+            "country": "USA",
+            "code": "BRO"
+        },
+        {
+            "city": "Brunswick,GA",
+            "country": "USA",
+            "code": "BQK"
+        },
+        {
+            "city": "Brussels",
+            "country": "Belgium",
+            "code": "BRU"
+        },
+        {
+            "city": "Bucharest",
+            "country": "Romania",
+            "code": "OTP"
+        },
+        {
+            "city": "Budapest",
+            "country": "Hungary",
+            "code": "BUD"
+        },
+        {
+            "city": "BuenosAires",
+            "country": "Argentina",
+            "code": "EZE"
+        },
+        {
+            "city": "Buffalo,NY",
+            "country": "USA",
+            "code": "BUF"
+        },
+        {
+            "city": "Bujumbura",
+            "country": "Burundi",
+            "code": "BJM"
+        },
+        {
+            "city": "Bulawayo",
+            "country": "Zimbabwe",
+            "code": "BUQ"
+        },
+        {
+            "city": "Bundaberg,Qld.",
+            "country": "Australia",
+            "code": "BDB"
+        },
+        {
+            "city": "Burbank,CA",
+            "country": "USA",
+            "code": "BUR"
+        },
+        {
+            "city": "BuriRam",
+            "country": "Thailand",
+            "code": "BFV"
+        },
+        {
+            "city": "Burlington,IA",
+            "country": "USA",
+            "code": "BRL"
+        },
+        {
+            "city": "Burlington,MA",
+            "country": "USA",
+            "code": "BBF"
+        },
+        {
+            "city": "Burlington,VT",
+            "country": "USA",
+            "code": "BTV"
+        },
+        {
+            "city": "Busan,Korea",
+            "country": "Republicof",
+            "code": "PUS"
+        },
+        {
+            "city": "Butte,MT",
+            "country": "USA",
+            "code": "BTM"
+        },
+        {
+            "city": "Butuan",
+            "country": "Philippines",
+            "code": "BXU"
+        },
+        {
+            "city": "Bydgoszcz",
+            "country": "Poland",
+            "code": "BZG"
+        },
+        {
+            "city": "Caen",
+            "country": "France",
+            "code": "CFR"
+        },
+        {
+            "city": "CagayandeOro",
+            "country": "Philippines",
+            "code": "CGY"
+        },
+        {
+            "city": "Cagliari,Sardinia",
+            "country": "Italy",
+            "code": "CAG"
+        },
+        {
+            "city": "Cairns,Qld.",
+            "country": "Australia",
+            "code": "CNS"
+        },
+        {
+            "city": "Cairo",
+            "country": "Egypt",
+            "code": "CAI"
+        },
+        {
+            "city": "Calcutta",
+            "country": "India",
+            "code": "CCU"
+        },
+        {
+            "city": "Calgary,AB",
+            "country": "Canada",
+            "code": "YYC"
+        },
+        {
+            "city": "Calgary,AB",
+            "country": "Canada",
+            "code": "YYC"
+        },
+        {
+            "city": "Cali",
+            "country": "Colombia",
+            "code": "CLO"
+        },
+        {
+            "city": "Calvi,Corsica",
+            "country": "France",
+            "code": "CLY"
+        },
+        {
+            "city": "CampbellRiver,BC",
+            "country": "Canada",
+            "code": "YBL"
+        },
+        {
+            "city": "CampbellRiver,BC",
+            "country": "Canada",
+            "code": "YBL"
+        },
+        {
+            "city": "Campbeltown",
+            "country": "Scotland",
+            "code": "CAL"
+        },
+        {
+            "city": "Campeche",
+            "country": "Mexico",
+            "code": "CPE"
+        },
+        {
+            "city": "Canberra,A.C.T.",
+            "country": "Australia",
+            "code": "CBR"
+        },
+        {
+            "city": "Cancun",
+            "country": "Mexico",
+            "code": "CUN"
+        },
+        {
+            "city": "Cap-aux-Meules,",
+            "country": "Canada",
+            "code": "YGR"
+        },
+        {
+            "city": "Cap-aux-Meules,MagdalensIslands,PQ",
+            "country": "Canada",
+            "code": "YGR"
+        },
+        {
+            "city": "CapeGirardeau,MO",
+            "country": "USA",
+            "code": "CGI"
+        },
+        {
+            "city": "CapeTown",
+            "country": "SouthAfrica",
+            "code": "CPT"
+        },
+        {
+            "city": "Caracas",
+            "country": "Venezuela",
+            "code": "CCS"
+        },
+        {
+            "city": "Cardiff",
+            "country": "Wales",
+            "code": "CWL"
+        },
+        {
+            "city": "Carlsbad,CA",
+            "country": "USA",
+            "code": "CLD"
+        },
+        {
+            "city": "Carlsbad,NM",
+            "country": "USA",
+            "code": "CNM"
+        },
+        {
+            "city": "Cartagena",
+            "country": "Colombia",
+            "code": "CTG"
+        },
+        {
+            "city": "Casablanca",
+            "country": "Morocco",
+            "code": "CMN"
+        },
+        {
+            "city": "Casper,WY",
+            "country": "USA",
+            "code": "CPR"
+        },
+        {
+            "city": "Castlegar,BC",
+            "country": "Canada",
+            "code": "YCG"
+        },
+        {
+            "city": "Castlegar,BC",
+            "country": "Canada",
+            "code": "YCG"
+        },
+        {
+            "city": "Castries",
+            "country": "St.Lucia",
+            "code": "SLU"
+        },
+        {
+            "city": "Catania,Sicily",
+            "country": "Italy",
+            "code": "CTA"
+        },
+        {
+            "city": "Cayenne",
+            "country": "FrenchGuiana",
+            "code": "CAY"
+        },
+        {
+            "city": "CaymanBrac",
+            "country": "CaymanIslands",
+            "code": "CYB"
+        },
+        {
+            "city": "Cebu",
+            "country": "Philippines",
+            "code": "CEB"
+        },
+        {
+            "city": "CedarRapids,IA",
+            "country": "USA",
+            "code": "CID"
+        },
+        {
+            "city": "Ceduna,S.A.",
+            "country": "Australia",
+            "code": "CED"
+        },
+        {
+            "city": "Champaign,IL",
+            "country": "USA",
+            "code": "CMI"
+        },
+        {
+            "city": "Changchun",
+            "country": "China",
+            "code": "CGQ"
+        },
+        {
+            "city": "Changsha",
+            "country": "China",
+            "code": "CSX"
+        },
+        {
+            "city": "Chania,Crete",
+            "country": "Greece",
+            "code": "CHQ"
+        },
+        {
+            "city": "Charleston,SC",
+            "country": "USA",
+            "code": "CHS"
+        },
+        {
+            "city": "Charleston,WV",
+            "country": "USA",
+            "code": "CRW"
+        },
+        {
+            "city": "Charleville,Qld.",
+            "country": "Australia",
+            "code": "CTL"
+        },
+        {
+            "city": "CharlotteAmalie,St.Thomas",
+            "country": "U.S.VirginIslands",
+            "code": "STT"
+        },
+        {
+            "city": "Charlotte,NC",
+            "country": "USA",
+            "code": "CLT"
+        },
+        {
+            "city": "Charlottesville,VA",
+            "country": "USA",
+            "code": "CHO"
+        },
+        {
+            "city": "Charlottetown,PEI",
+            "country": "Canada",
+            "code": "YYG"
+        },
+        {
+            "city": "Charlottetown,PEI",
+            "country": "Canada",
+            "code": "YYG"
+        },
+        {
+            "city": "Chattanooga,TN",
+            "country": "USA",
+            "code": "CHA"
+        },
+        {
+            "city": "Chengdu",
+            "country": "China",
+            "code": "CTU"
+        },
+        {
+            "city": "Chennai(Madras)",
+            "country": "India",
+            "code": "MAA"
+        },
+        {
+            "city": "Chetumal",
+            "country": "Mexico",
+            "code": "CTM"
+        },
+        {
+            "city": "Cheyenne,WY",
+            "country": "USA",
+            "code": "CYS"
+        },
+        {
+            "city": "ChiangMai",
+            "country": "Thailand",
+            "code": "CNX"
+        },
+        {
+            "city": "ChiangRai",
+            "country": "Thailand",
+            "code": "CEI"
+        },
+        {
+            "city": "Chibougamau,PQ",
+            "country": "Canada",
+            "code": "YMT"
+        },
+        {
+            "city": "Chibougamau,PQ",
+            "country": "Canada",
+            "code": "YMT"
+        },
+        {
+            "city": "Chicago,IL",
+            "country": "USA",
+            "code": "CHI-All"
+        },
+        {
+            "city": "Chicago,IL",
+            "country": "USA",
+            "code": "MDW"
+        },
+        {
+            "city": "Chicago,IL",
+            "country": "USA",
+            "code": "ORD"
+        },
+        {
+            "city": "Chico,CA",
+            "country": "USA",
+            "code": "CIC"
+        },
+        {
+            "city": "Chihuahua",
+            "country": "Mexico",
+            "code": "CUU"
+        },
+        {
+            "city": "Chios",
+            "country": "Greece",
+            "code": "JKH"
+        },
+        {
+            "city": "Chisinau",
+            "country": "Moldova",
+            "code": "KIV"
+        },
+        {
+            "city": "Chongqing",
+            "country": "China",
+            "code": "CKG"
+        },
+        {
+            "city": "Christchurch",
+            "country": "NewZealand",
+            "code": "CHC"
+        },
+        {
+            "city": "Christiansted,St.Croix",
+            "country": "U.S.VirginIslands",
+            "code": "STX"
+        },
+        {
+            "city": "Churchill,MB",
+            "country": "Canada",
+            "code": "YYQ"
+        },
+        {
+            "city": "Churchill,MB",
+            "country": "Canada",
+            "code": "YYQ"
+        },
+        {
+            "city": "Cincinnati,OH",
+            "country": "USA",
+            "code": "CVG"
+        },
+        {
+            "city": "CiudadBolivar",
+            "country": "Venezuela",
+            "code": "CBL"
+        },
+        {
+            "city": "CiudadDelCarmen",
+            "country": "Mexico",
+            "code": "CME"
+        },
+        {
+            "city": "CiudaddelEste",
+            "country": "Paraguay",
+            "code": "AGT"
+        },
+        {
+            "city": "CiudadJuarez",
+            "country": "Mexico",
+            "code": "CJS"
+        },
+        {
+            "city": "CiudadObregon",
+            "country": "Mexico",
+            "code": "CEN"
+        },
+        {
+            "city": "CiudadVictoria",
+            "country": "Mexico",
+            "code": "CVM"
+        },
+        {
+            "city": "Clarksburg,WV",
+            "country": "USA",
+            "code": "CKB"
+        },
+        {
+            "city": "Clermont-Ferrand",
+            "country": "France",
+            "code": "CFE"
+        },
+        {
+            "city": "Cleveland,OH",
+            "country": "USA",
+            "code": "CLE"
+        },
+        {
+            "city": "Clovis,NM",
+            "country": "USA",
+            "code": "CVN"
+        },
+        {
+            "city": "CockburnTown,SanSalvadorIsland",
+            "country": "Bahamas",
+            "code": "ZSA"
+        },
+        {
+            "city": "Cody,WY",
+            "country": "USA",
+            "code": "COD"
+        },
+        {
+            "city": "CoffsHarbour,N.S.W.",
+            "country": "Australia",
+            "code": "CFS"
+        },
+        {
+            "city": "Colima",
+            "country": "Mexico",
+            "code": "CLQ"
+        },
+        {
+            "city": "CollegeStation,TX",
+            "country": "USA",
+            "code": "CLL"
+        },
+        {
+            "city": "Cologne",
+            "country": "Germany",
+            "code": "CGN"
+        },
+        {
+            "city": "Colombo",
+            "country": "SriLanka",
+            "code": "CMB"
+        },
+        {
+            "city": "ColoradoSprings,CO",
+            "country": "USA",
+            "code": "COS"
+        },
+        {
+            "city": "Columbia,MO",
+            "country": "USA",
+            "code": "COU"
+        },
+        {
+            "city": "Columbia,SC",
+            "country": "USA",
+            "code": "CAE"
+        },
+        {
+            "city": "Columbus,GA",
+            "country": "USA",
+            "code": "CSG"
+        },
+        {
+            "city": "Columbus,IN",
+            "country": "USA",
+            "code": "CLU"
+        },
+        {
+            "city": "Columbus,MS",
+            "country": "USA",
+            "code": "GTR"
+        },
+        {
+            "city": "Columbus,NE",
+            "country": "USA",
+            "code": "OLU"
+        },
+        {
+            "city": "Columbus,OH",
+            "country": "USA",
+            "code": "CMH"
+        },
+        {
+            "city": "Conakry",
+            "country": "Guinea",
+            "code": "CKY"
+        },
+        {
+            "city": "Concepcion",
+            "country": "Chile",
+            "code": "CCP"
+        },
+        {
+            "city": "Connaught",
+            "country": "Ireland",
+            "code": "NOC"
+        },
+        {
+            "city": "CooberPedy,S.A.",
+            "country": "Australia",
+            "code": "CPD"
+        },
+        {
+            "city": "Copenhagen",
+            "country": "Denmark",
+            "code": "CPH"
+        },
+        {
+            "city": "Copiapo",
+            "country": "Chile",
+            "code": "CPO"
+        },
+        {
+            "city": "Cordoba",
+            "country": "Argentina",
+            "code": "COR"
+        },
+        {
+            "city": "Cordova,AK",
+            "country": "USA",
+            "code": "CDV"
+        },
+        {
+            "city": "Cork",
+            "country": "Ireland",
+            "code": "ORK"
+        },
+        {
+            "city": "CorpusChristi,TX",
+            "country": "USA",
+            "code": "CRP"
+        },
+        {
+            "city": "Cotabato",
+            "country": "Philippines",
+            "code": "CBO"
+        },
+        {
+            "city": "Cozumel",
+            "country": "Mexico",
+            "code": "CZM"
+        },
+        {
+            "city": "Cranbrook,BC",
+            "country": "Canada",
+            "code": "YXC"
+        },
+        {
+            "city": "Cranbrook,BC",
+            "country": "Canada",
+            "code": "YXC"
+        },
+        {
+            "city": "Crotone",
+            "country": "Italy",
+            "code": "CRV"
+        },
+        {
+            "city": "CubiPointNas",
+            "country": "Philippines",
+            "code": "NCP"
+        },
+        {
+            "city": "Culiacan",
+            "country": "Mexico",
+            "code": "CUL"
+        },
+        {
+            "city": "Curitiba",
+            "country": "Brazil",
+            "code": "CWB"
+        },
+        {
+            "city": "Cusco",
+            "country": "Peru",
+            "code": "CUZ"
+        },
+        {
+            "city": "DaNang",
+            "country": "Vietnam",
+            "code": "DAD"
+        },
+        {
+            "city": "Dakar",
+            "country": "Senegal",
+            "code": "DKR"
+        },
+        {
+            "city": "Dalaman",
+            "country": "Turkey",
+            "code": "DLM"
+        },
+        {
+            "city": "DaliCity",
+            "country": "China",
+            "code": "DLU"
+        },
+        {
+            "city": "Dalian",
+            "country": "China",
+            "code": "DLC"
+        },
+        {
+            "city": "Dallas,TX",
+            "country": "USA",
+            "code": "DAL"
+        },
+        {
+            "city": "Dallas,TX",
+            "country": "USA",
+            "code": "DFW"
+        },
+        {
+            "city": "Damascus",
+            "country": "Syria",
+            "code": "DAM"
+        },
+        {
+            "city": "Dangriga",
+            "country": "Belize",
+            "code": "DGA"
+        },
+        {
+            "city": "DaresSalaam",
+            "country": "Tanzania",
+            "code": "DAR"
+        },
+        {
+            "city": "Darwin,N.T.",
+            "country": "Australia",
+            "code": "DRW"
+        },
+        {
+            "city": "Davao",
+            "country": "Philippines",
+            "code": "DVO"
+        },
+        {
+            "city": "Dawadmi",
+            "country": "SaudiArabia",
+            "code": "DWD"
+        },
+        {
+            "city": "Dayong",
+            "country": "China",
+            "code": "DYG"
+        },
+        {
+            "city": "Dayton,OH",
+            "country": "USA",
+            "code": "DAY"
+        },
+        {
+            "city": "DaytonaBeach,FL",
+            "country": "USA",
+            "code": "DAB"
+        },
+        {
+            "city": "DeadmansCay,LongIsland",
+            "country": "Bahamas",
+            "code": "LGI"
+        },
+        {
+            "city": "Deboyne",
+            "country": "Papua-NewGuinea",
+            "code": "DOY"
+        },
+        {
+            "city": "Decatur,IL",
+            "country": "USA",
+            "code": "DEC"
+        },
+        {
+            "city": "DeerLake,NF",
+            "country": "Canada",
+            "code": "YDF"
+        },
+        {
+            "city": "DeerLake,NF",
+            "country": "Canada",
+            "code": "YDF"
+        },
+        {
+            "city": "Delhi",
+            "country": "India",
+            "code": "DEL"
+        },
+        {
+            "city": "Denpasar,Bali",
+            "country": "Indonesia",
+            "code": "DPS"
+        },
+        {
+            "city": "Denver,CO",
+            "country": "USA",
+            "code": "DEN"
+        },
+        {
+            "city": "DesMoines,IA",
+            "country": "USA",
+            "code": "DSM"
+        },
+        {
+            "city": "Detroit,MI",
+            "country": "USA",
+            "code": "DTT-All"
+        },
+        {
+            "city": "Detroit,MI",
+            "country": "USA",
+            "code": "DTW"
+        },
+        {
+            "city": "DevilsLake,ND",
+            "country": "USA",
+            "code": "DVL"
+        },
+        {
+            "city": "Devonport,Tas.",
+            "country": "Australia",
+            "code": "DPO"
+        },
+        {
+            "city": "Dhahran",
+            "country": "SaudiArabia",
+            "code": "DHA"
+        },
+        {
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "code": "DAC"
+        },
+        {
+            "city": "Dickinson,ND",
+            "country": "USA",
+            "code": "DIK"
+        },
+        {
+            "city": "Dien-Bien-Phu",
+            "country": "Vietnam",
+            "code": "DIN"
+        },
+        {
+            "city": "Dillingham,AK",
+            "country": "USA",
+            "code": "DLG"
+        },
+        {
+            "city": "Dipolog",
+            "country": "Philippines",
+            "code": "DPL"
+        },
+        {
+            "city": "Djibouti",
+            "country": "Djibouti",
+            "code": "JIB"
+        },
+        {
+            "city": "Dnepropetrovsk",
+            "country": "Ukraine",
+            "code": "DNK"
+        },
+        {
+            "city": "DodgeCity,KS",
+            "country": "USA",
+            "code": "DDC"
+        },
+        {
+            "city": "Doha",
+            "country": "Qatar",
+            "code": "DOH"
+        },
+        {
+            "city": "Doncaster",
+            "country": "England",
+            "code": "DSA"
+        },
+        {
+            "city": "Donetsk",
+            "country": "Ukraine",
+            "code": "DOK"
+        },
+        {
+            "city": "Dortmund",
+            "country": "Germany",
+            "code": "DTM"
+        },
+        {
+            "city": "Dothan,AL",
+            "country": "USA",
+            "code": "DHN"
+        },
+        {
+            "city": "Douala",
+            "country": "Cameroon",
+            "code": "DLA"
+        },
+        {
+            "city": "Dresden",
+            "country": "Germany",
+            "code": "DRS"
+        },
+        {
+            "city": "Dryden,ON",
+            "country": "Canada",
+            "code": "YHD"
+        },
+        {
+            "city": "Dryden,ON",
+            "country": "Canada",
+            "code": "YHD"
+        },
+        {
+            "city": "DuBois,PA",
+            "country": "USA",
+            "code": "DUJ"
+        },
+        {
+            "city": "Dubai",
+            "country": "UnitedArabEmirates",
+            "code": "DXB"
+        },
+        {
+            "city": "Dubbo,N.S.W.",
+            "country": "Australia",
+            "code": "DBO"
+        },
+        {
+            "city": "Dublin",
+            "country": "Ireland",
+            "code": "DUB"
+        },
+        {
+            "city": "Dubrovnik",
+            "country": "Croatia",
+            "code": "DBV"
+        },
+        {
+            "city": "Dubuque,IA",
+            "country": "USA",
+            "code": "DBQ"
+        },
+        {
+            "city": "Duluth,MN",
+            "country": "USA",
+            "code": "DLH"
+        },
+        {
+            "city": "Dumaguete",
+            "country": "Philippines",
+            "code": "DGT"
+        },
+        {
+            "city": "Dunedin",
+            "country": "NewZealand",
+            "code": "DUD"
+        },
+        {
+            "city": "Durango",
+            "country": "Mexico",
+            "code": "DGO"
+        },
+        {
+            "city": "Durango,CO",
+            "country": "USA",
+            "code": "DRO"
+        },
+        {
+            "city": "Durban",
+            "country": "SouthAfrica",
+            "code": "DUR"
+        },
+        {
+            "city": "Dushanbe",
+            "country": "Tajikistan",
+            "code": "DYU"
+        },
+        {
+            "city": "Dusseldorf",
+            "country": "Germany",
+            "code": "DUS"
+        },
+        {
+            "city": "DutchHarbor,UnIsland,AK",
+            "country": "USA",
+            "code": "DUT"
+        },
+        {
+            "city": "EastLondon",
+            "country": "SouthAfrica",
+            "code": "ELS"
+        },
+        {
+            "city": "EastMidlands",
+            "country": "England",
+            "code": "EMA"
+        },
+        {
+            "city": "EauClaire,WI",
+            "country": "USA",
+            "code": "EAU"
+        },
+        {
+            "city": "Edinburgh",
+            "country": "Scotland",
+            "code": "EDI"
+        },
+        {
+            "city": "Edmonton,AB",
+            "country": "Canada",
+            "code": "YEG"
+        },
+        {
+            "city": "Edmonton,AB",
+            "country": "Canada",
+            "code": "YEG"
+        },
+        {
+            "city": "Eek,AK",
+            "country": "USA",
+            "code": "EEK"
+        },
+        {
+            "city": "Ekaterinburg,Siberia",
+            "country": "Russia",
+            "code": "SVX"
+        },
+        {
+            "city": "ElCalafate",
+            "country": "Argentina",
+            "code": "FTE"
+        },
+        {
+            "city": "ElCentro,CA",
+            "country": "USA",
+            "code": "IPL"
+        },
+        {
+            "city": "ElDorado,AR",
+            "country": "USA",
+            "code": "ELD"
+        },
+        {
+            "city": "ElPaso,TX",
+            "country": "USA",
+            "code": "ELP"
+        },
+        {
+            "city": "ElSalvador",
+            "country": "Chile",
+            "code": "ESR"
+        },
+        {
+            "city": "Elko,NV",
+            "country": "USA",
+            "code": "EKO"
+        },
+        {
+            "city": "Elmira,NY",
+            "country": "USA",
+            "code": "ELM"
+        },
+        {
+            "city": "Emerald,Qld.",
+            "country": "Australia",
+            "code": "EMD"
+        },
+        {
+            "city": "Enid,OK",
+            "country": "USA",
+            "code": "WDG"
+        },
+        {
+            "city": "Entebbe",
+            "country": "Uganda",
+            "code": "EBB"
+        },
+        {
+            "city": "Erfurt",
+            "country": "Germany",
+            "code": "ERF"
+        },
+        {
+            "city": "Erie,PA",
+            "country": "USA",
+            "code": "ERI"
+        },
+        {
+            "city": "Esbjerg",
+            "country": "Denmark",
+            "code": "EBJ"
+        },
+        {
+            "city": "Escanaba,MI",
+            "country": "USA",
+            "code": "ESC"
+        },
+        {
+            "city": "Eugene,OR",
+            "country": "USA",
+            "code": "EUG"
+        },
+        {
+            "city": "Eureka,CA",
+            "country": "USA",
+            "code": "ACV"
+        },
+        {
+            "city": "Evansville,IN",
+            "country": "USA",
+            "code": "EVV"
+        },
+        {
+            "city": "Evenes",
+            "country": "Norway",
+            "code": "EVE"
+        },
+        {
+            "city": "Fairbanks,AK",
+            "country": "USA",
+            "code": "FAI"
+        },
+        {
+            "city": "Fargo,ND",
+            "country": "USA",
+            "code": "FAR"
+        },
+        {
+            "city": "Farmington,NM",
+            "country": "USA",
+            "code": "FMN"
+        },
+        {
+            "city": "Faro",
+            "country": "Portugal",
+            "code": "FAO"
+        },
+        {
+            "city": "Fayetteville,AR",
+            "country": "USA",
+            "code": "XNA"
+        },
+        {
+            "city": "Fayetteville,NC",
+            "country": "USA",
+            "code": "FAY"
+        },
+        {
+            "city": "FernandodeNoronha",
+            "country": "Brazil",
+            "code": "FEN"
+        },
+        {
+            "city": "Figari,Corsica",
+            "country": "France",
+            "code": "FSC"
+        },
+        {
+            "city": "Flagstaff,AZ",
+            "country": "USA",
+            "code": "FLG"
+        },
+        {
+            "city": "FlinFlon,MB",
+            "country": "Canada",
+            "code": "YFO"
+        },
+        {
+            "city": "FlinFlon,MB",
+            "country": "Canada",
+            "code": "YFO"
+        },
+        {
+            "city": "Flint,MI",
+            "country": "USA",
+            "code": "FNT"
+        },
+        {
+            "city": "Florence",
+            "country": "Italy",
+            "code": "FLR"
+        },
+        {
+            "city": "Florence,SC",
+            "country": "USA",
+            "code": "FLO"
+        },
+        {
+            "city": "Flores",
+            "country": "Guatemala",
+            "code": "FRS"
+        },
+        {
+            "city": "FortDodge,IA",
+            "country": "USA",
+            "code": "FOD"
+        },
+        {
+            "city": "FortLauderdale,FL",
+            "country": "USA",
+            "code": "FLL"
+        },
+        {
+            "city": "FortLeonardWood,MO",
+            "country": "USA",
+            "code": "TBN"
+        },
+        {
+            "city": "FortMcMurray,AB",
+            "country": "Canada",
+            "code": "YMM"
+        },
+        {
+            "city": "FortMcMurray,AB",
+            "country": "Canada",
+            "code": "YMM"
+        },
+        {
+            "city": "FortMyers,FL",
+            "country": "USA",
+            "code": "RSW"
+        },
+        {
+            "city": "FortNelson,BC",
+            "country": "Canada",
+            "code": "YYE"
+        },
+        {
+            "city": "FortNelson,BC",
+            "country": "Canada",
+            "code": "YYE"
+        },
+        {
+            "city": "FortSaintJohn,BC",
+            "country": "Canada",
+            "code": "YXJ"
+        },
+        {
+            "city": "FortSaintJohn,BC",
+            "country": "Canada",
+            "code": "YXJ"
+        },
+        {
+            "city": "FortSmith,AR",
+            "country": "USA",
+            "code": "FSM"
+        },
+        {
+            "city": "FortSmith,NWT",
+            "country": "Canada",
+            "code": "YSM"
+        },
+        {
+            "city": "FortSmith,NWT",
+            "country": "Canada",
+            "code": "YSM"
+        },
+        {
+            "city": "FortWaltonBeach,FL",
+            "country": "USA",
+            "code": "VPS"
+        },
+        {
+            "city": "FortWayne,IN",
+            "country": "USA",
+            "code": "FWA"
+        },
+        {
+            "city": "FortYukon,AK",
+            "country": "USA",
+            "code": "FYU"
+        },
+        {
+            "city": "Fort-de-France",
+            "country": "Martinique",
+            "code": "FDF"
+        },
+        {
+            "city": "Frankfurt",
+            "country": "Germany",
+            "code": "FRA"
+        },
+        {
+            "city": "Fredericton,NB",
+            "country": "Canada",
+            "code": "YFC"
+        },
+        {
+            "city": "Fredericton,NB",
+            "country": "Canada",
+            "code": "YFC"
+        },
+        {
+            "city": "Freeport,GrandBahamaIsland",
+            "country": "Bahamas",
+            "code": "FPO"
+        },
+        {
+            "city": "Freetown",
+            "country": "SierraLeone",
+            "code": "FNA"
+        },
+        {
+            "city": "Fresno,CA",
+            "country": "USA",
+            "code": "FAT"
+        },
+        {
+            "city": "Friedrichshafen",
+            "country": "Germany",
+            "code": "FDH"
+        },
+        {
+            "city": "Fukuoka",
+            "country": "Japan",
+            "code": "FUK"
+        },
+        {
+            "city": "Fukushima",
+            "country": "Japan",
+            "code": "FKS"
+        },
+        {
+            "city": "Funchal",
+            "country": "Madeira",
+            "code": "FNC"
+        },
+        {
+            "city": "Fuzhou",
+            "country": "China",
+            "code": "FOC"
+        },
+        {
+            "city": "Gainesville,FL",
+            "country": "USA",
+            "code": "GNV"
+        },
+        {
+            "city": "Gander,NF",
+            "country": "Canada",
+            "code": "YQX"
+        },
+        {
+            "city": "Gander,NF",
+            "country": "Canada",
+            "code": "YQX"
+        },
+        {
+            "city": "GardenCity,KS",
+            "country": "USA",
+            "code": "GCK"
+        },
+        {
+            "city": "Gaspe,PQ",
+            "country": "Canada",
+            "code": "YGP"
+        },
+        {
+            "city": "Gaspe,PQ",
+            "country": "Canada",
+            "code": "YGP"
+        },
+        {
+            "city": "Gdansk",
+            "country": "Poland",
+            "code": "GDN"
+        },
+        {
+            "city": "GeneralSantos",
+            "country": "Philippines",
+            "code": "GES"
+        },
+        {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "code": "GVA"
+        },
+        {
+            "city": "Genoa",
+            "country": "Italy",
+            "code": "GOA"
+        },
+        {
+            "city": "GeorgeTown,GreatExumaIsland",
+            "country": "Bahamas",
+            "code": "GGT"
+        },
+        {
+            "city": "Georgetown",
+            "country": "Guyana",
+            "code": "GEO"
+        },
+        {
+            "city": "Georgetown,GrandCaymanIsland",
+            "country": "CaymanIslands",
+            "code": "GCM"
+        },
+        {
+            "city": "Gillette,WY",
+            "country": "USA",
+            "code": "GCC"
+        },
+        {
+            "city": "Gisborne",
+            "country": "NewZealand",
+            "code": "GIS"
+        },
+        {
+            "city": "Gladstone,Qld.",
+            "country": "Australia",
+            "code": "GLT"
+        },
+        {
+            "city": "Glasgow",
+            "country": "Scotland",
+            "code": "GLA"
+        },
+        {
+            "city": "Glasgow",
+            "country": "Scotland",
+            "code": "PIK"
+        },
+        {
+            "city": "Glendive,MT",
+            "country": "USA",
+            "code": "GDV"
+        },
+        {
+            "city": "GoldCoast,Qld.",
+            "country": "Australia",
+            "code": "OOL"
+        },
+        {
+            "city": "Gothenburg",
+            "country": "Sweden",
+            "code": "GOT"
+        },
+        {
+            "city": "Gove,N.T.",
+            "country": "Australia",
+            "code": "GOV"
+        },
+        {
+            "city": "Governor'sHarbour,EleutheraIsland",
+            "country": "Bahamas",
+            "code": "GHB"
+        },
+        {
+            "city": "Granada",
+            "country": "Spain",
+            "code": "GRX"
+        },
+        {
+            "city": "GrandForks,ND",
+            "country": "USA",
+            "code": "GFK"
+        },
+        {
+            "city": "GrandIsland,NE",
+            "country": "USA",
+            "code": "GRI"
+        },
+        {
+            "city": "GrandJunction,CO",
+            "country": "USA",
+            "code": "GJT"
+        },
+        {
+            "city": "GrandRapids,MI",
+            "country": "USA",
+            "code": "GRR"
+        },
+        {
+            "city": "GrandePrairie,AB",
+            "country": "Canada",
+            "code": "YQU"
+        },
+        {
+            "city": "GrandePrairie,AB",
+            "country": "Canada",
+            "code": "YQU"
+        },
+        {
+            "city": "Graz",
+            "country": "Austria",
+            "code": "GRZ"
+        },
+        {
+            "city": "GreatBend,KS",
+            "country": "USA",
+            "code": "GBD"
+        },
+        {
+            "city": "GreatFalls,MT",
+            "country": "USA",
+            "code": "GTF"
+        },
+        {
+            "city": "GreenBay,WI",
+            "country": "USA",
+            "code": "GRB"
+        },
+        {
+            "city": "Greenbrier,WV",
+            "country": "USA",
+            "code": "LWB"
+        },
+        {
+            "city": "Greensboro,NC",
+            "country": "USA",
+            "code": "GSO"
+        },
+        {
+            "city": "Greenville,MS",
+            "country": "USA",
+            "code": "GLH"
+        },
+        {
+            "city": "Greenville,NC",
+            "country": "USA",
+            "code": "PGV"
+        },
+        {
+            "city": "Greenville,SC",
+            "country": "USA",
+            "code": "GSP"
+        },
+        {
+            "city": "Griffith,N.S.W.",
+            "country": "Australia",
+            "code": "GFF"
+        },
+        {
+            "city": "Guadalajara",
+            "country": "Mexico",
+            "code": "GDL"
+        },
+        {
+            "city": "Guangzhou",
+            "country": "China",
+            "code": "CAN"
+        },
+        {
+            "city": "GuatemalaCity",
+            "country": "Guatemala",
+            "code": "GUA"
+        },
+        {
+            "city": "Guayaquil",
+            "country": "Ecuador",
+            "code": "GYE"
+        },
+        {
+            "city": "Guaymas",
+            "country": "Mexico",
+            "code": "GYM"
+        },
+        {
+            "city": "Guernsey",
+            "country": "ChannelIslands",
+            "code": "GCI"
+        },
+        {
+            "city": "Guilin",
+            "country": "China",
+            "code": "KWL"
+        },
+        {
+            "city": "Gulfport,MS",
+            "country": "USA",
+            "code": "GPT"
+        },
+        {
+            "city": "Gunnison,CO",
+            "country": "USA",
+            "code": "GUC"
+        },
+        {
+            "city": "Gustavia",
+            "country": "St.Barts",
+            "code": "SBH"
+        },
+        {
+            "city": "Hagerstown,MD",
+            "country": "USA",
+            "code": "HGR"
+        },
+        {
+            "city": "Haikou,HainanIsland",
+            "country": "China",
+            "code": "HAK"
+        },
+        {
+            "city": "Hailar",
+            "country": "China",
+            "code": "HLD"
+        },
+        {
+            "city": "Hakodate",
+            "country": "Japan",
+            "code": "HKD"
+        },
+        {
+            "city": "Halifax,NS",
+            "country": "Canada",
+            "code": "YHZ"
+        },
+        {
+            "city": "Halifax,NS",
+            "country": "Canada",
+            "code": "YHZ"
+        },
+        {
+            "city": "Halmstad",
+            "country": "Sweden",
+            "code": "HAD"
+        },
+        {
+            "city": "Hamburg",
+            "country": "Germany",
+            "code": "HAM"
+        },
+        {
+            "city": "Hamilton",
+            "country": "Bermuda",
+            "code": "BDA"
+        },
+        {
+            "city": "Hamilton",
+            "country": "NewZealand",
+            "code": "HLZ"
+        },
+        {
+            "city": "HamiltonIsland,WhitsundayIsland,Qld.",
+            "country": "Australia",
+            "code": "HTI"
+        },
+        {
+            "city": "Hamilton,ON",
+            "country": "Canada",
+            "code": "YHM"
+        },
+        {
+            "city": "Hamilton,ON",
+            "country": "Canada",
+            "code": "YHM"
+        },
+        {
+            "city": "Hammerfest",
+            "country": "Norway",
+            "code": "HFT"
+        },
+        {
+            "city": "Hana,Maui,HI",
+            "country": "USA",
+            "code": "HNM"
+        },
+        {
+            "city": "Hancock,MI",
+            "country": "USA",
+            "code": "CMX"
+        },
+        {
+            "city": "HangaRoa,EasterIsland",
+            "country": "Chile",
+            "code": "IPC"
+        },
+        {
+            "city": "Hangzhou",
+            "country": "China",
+            "code": "HGH"
+        },
+        {
+            "city": "Hannover",
+            "country": "Germany",
+            "code": "HAJ"
+        },
+        {
+            "city": "Hanoi",
+            "country": "Vietnam",
+            "code": "HAN"
+        },
+        {
+            "city": "Harare",
+            "country": "Zimbabwe",
+            "code": "HRE"
+        },
+        {
+            "city": "Harbin",
+            "country": "China",
+            "code": "HRB"
+        },
+        {
+            "city": "Harlingen,TX",
+            "country": "USA",
+            "code": "HRL"
+        },
+        {
+            "city": "Harrisburg,PA",
+            "country": "USA",
+            "code": "MDT"
+        },
+        {
+            "city": "Harrison,AR",
+            "country": "USA",
+            "code": "HRO"
+        },
+        {
+            "city": "Hartford,CT",
+            "country": "USA",
+            "code": "BDL"
+        },
+        {
+            "city": "HatYai",
+            "country": "Thailand",
+            "code": "HDY"
+        },
+        {
+            "city": "Haugesund",
+            "country": "Norway",
+            "code": "HAU"
+        },
+        {
+            "city": "Havana",
+            "country": "Cuba",
+            "code": "HAV"
+        },
+        {
+            "city": "Havre,MT",
+            "country": "USA",
+            "code": "HVR"
+        },
+        {
+            "city": "Hays,KS",
+            "country": "USA",
+            "code": "HYS"
+        },
+        {
+            "city": "Hefei",
+            "country": "China",
+            "code": "HFE"
+        },
+        {
+            "city": "Helena,MT",
+            "country": "USA",
+            "code": "HLN"
+        },
+        {
+            "city": "Helsingborg",
+            "country": "Sweden",
+            "code": "AGH"
+        },
+        {
+            "city": "Helsinki",
+            "country": "Finland",
+            "code": "HEL"
+        },
+        {
+            "city": "Hemavan",
+            "country": "Sweden",
+            "code": "HMV"
+        },
+        {
+            "city": "Hengchun",
+            "country": "Taiwan",
+            "code": "HCN"
+        },
+        {
+            "city": "Heraklion,Crete",
+            "country": "Greece",
+            "code": "HER"
+        },
+        {
+            "city": "Hermosillo",
+            "country": "Mexico",
+            "code": "HMO"
+        },
+        {
+            "city": "Hibbing,MN",
+            "country": "USA",
+            "code": "HIB"
+        },
+        {
+            "city": "Hilo,Hawaii",
+            "country": "USA",
+            "code": "Big"
+        },
+        {
+            "city": "HiltonHeadIsland,SC",
+            "country": "USA",
+            "code": "HHH"
+        },
+        {
+            "city": "HoChiMinhCity(Saigon)",
+            "country": "Vietnam",
+            "code": "SGN"
+        },
+        {
+            "city": "Hobart,Tas.",
+            "country": "Australia",
+            "code": "HBA"
+        },
+        {
+            "city": "Hobbs,NM",
+            "country": "USA",
+            "code": "HOB"
+        },
+        {
+            "city": "Hof",
+            "country": "Germany",
+            "code": "HOQ"
+        },
+        {
+            "city": "Hohhot",
+            "country": "China",
+            "code": "HET"
+        },
+        {
+            "city": "Hokitika",
+            "country": "NewZealand",
+            "code": "HKK"
+        },
+        {
+            "city": "Homer,AK",
+            "country": "USA",
+            "code": "HOM"
+        },
+        {
+            "city": "HongKong",
+            "country": "China",
+            "code": "HKG"
+        },
+        {
+            "city": "Honiara,Guadalcanal",
+            "country": "SolomonIslands",
+            "code": "HIR"
+        },
+        {
+            "city": "Honolulu,Oahu,HI",
+            "country": "USA",
+            "code": "HNL"
+        },
+        {
+            "city": "Hoolehua,Molokai,HI",
+            "country": "USA",
+            "code": "MKK"
+        },
+        {
+            "city": "HornIsland,Qld.",
+            "country": "Australia",
+            "code": "HID"
+        },
+        {
+            "city": "HotSprings,AR",
+            "country": "USA",
+            "code": "HOT"
+        },
+        {
+            "city": "HoumtSouk",
+            "country": "Tunisia",
+            "code": "DJE"
+        },
+        {
+            "city": "Houston,TX",
+            "country": "USA",
+            "code": "EFD"
+        },
+        {
+            "city": "Houston,TX",
+            "country": "USA",
+            "code": "HOU"
+        },
+        {
+            "city": "Houston,TX",
+            "country": "USA",
+            "code": "IAH"
+        },
+        {
+            "city": "Hualien",
+            "country": "Taiwan",
+            "code": "HUN"
+        },
+        {
+            "city": "Hue",
+            "country": "Vietnam",
+            "code": "HUI"
+        },
+        {
+            "city": "Humberside",
+            "country": "England",
+            "code": "HUY"
+        },
+        {
+            "city": "Huntington,WV",
+            "country": "USA",
+            "code": "HTS"
+        },
+        {
+            "city": "Huntsville,AL",
+            "country": "USA",
+            "code": "HSV"
+        },
+        {
+            "city": "Hurghada",
+            "country": "Egypt",
+            "code": "HRG"
+        },
+        {
+            "city": "Huron,SD",
+            "country": "USA",
+            "code": "HON"
+        },
+        {
+            "city": "Hyannis,MA",
+            "country": "USA",
+            "code": "HYA"
+        },
+        {
+            "city": "Hyderabad",
+            "country": "India",
+            "code": "HYD"
+        },
+        {
+            "city": "Ibadan",
+            "country": "Nigeria",
+            "code": "IBA"
+        },
+        {
+            "city": "Ibiza",
+            "country": "Spain",
+            "code": "IBZ"
+        },
+        {
+            "city": "IdahoFalls,ID",
+            "country": "USA",
+            "code": "IDA"
+        },
+        {
+            "city": "IkariaIsland",
+            "country": "Greece",
+            "code": "JIK"
+        },
+        {
+            "city": "Iloilo",
+            "country": "Philippines",
+            "code": "ILO"
+        },
+        {
+            "city": "Indianapolis,IN",
+            "country": "USA",
+            "code": "IND"
+        },
+        {
+            "city": "Innsbruck",
+            "country": "Austria",
+            "code": "INN"
+        },
+        {
+            "city": "InternationalFalls,MN",
+            "country": "USA",
+            "code": "INL"
+        },
+        {
+            "city": "Invercargill",
+            "country": "NewZealand",
+            "code": "IVC"
+        },
+        {
+            "city": "Inverness",
+            "country": "Scotland",
+            "code": "INV"
+        },
+        {
+            "city": "Inyokern,CA",
+            "country": "USA",
+            "code": "IYK"
+        },
+        {
+            "city": "Ioannina",
+            "country": "Greece",
+            "code": "IOA"
+        },
+        {
+            "city": "Ipoh",
+            "country": "Malaysia",
+            "code": "IPH"
+        },
+        {
+            "city": "Iqaluit,Nunavut",
+            "country": "Canada",
+            "code": "YFB"
+        },
+        {
+            "city": "Iqaluit,Nunavut",
+            "country": "Canada",
+            "code": "YFB"
+        },
+        {
+            "city": "Irkutsk,Siberia",
+            "country": "Russia",
+            "code": "IKT"
+        },
+        {
+            "city": "IronMountain,MI",
+            "country": "USA",
+            "code": "IMT"
+        },
+        {
+            "city": "Ironwood,MI",
+            "country": "USA",
+            "code": "IWD"
+        },
+        {
+            "city": "Islamabad-Rawalpindi",
+            "country": "Pakistan",
+            "code": "ISB"
+        },
+        {
+            "city": "IslayIsland",
+            "country": "Scotland",
+            "code": "ILY"
+        },
+        {
+            "city": "Islip,NY",
+            "country": "USA",
+            "code": "ISP"
+        },
+        {
+            "city": "Istanbul",
+            "country": "Turkey",
+            "code": "IST"
+        },
+        {
+            "city": "Istanbul",
+            "country": "Turkey",
+            "code": "SAW"
+        },
+        {
+            "city": "Ithaca,NY",
+            "country": "USA",
+            "code": "ITH"
+        },
+        {
+            "city": "Ivalo",
+            "country": "Finland",
+            "code": "IVL"
+        },
+        {
+            "city": "Iwami",
+            "country": "Japan",
+            "code": "IWJ"
+        },
+        {
+            "city": "Ixtapa",
+            "country": "Mexico",
+            "code": "ZIH"
+        },
+        {
+            "city": "Izmir",
+            "country": "Turkey",
+            "code": "ADB"
+        },
+        {
+            "city": "Izumo",
+            "country": "Japan",
+            "code": "IZO"
+        },
+        {
+            "city": "JacksonHole,WY",
+            "country": "USA",
+            "code": "JAC"
+        },
+        {
+            "city": "Jackson,MS",
+            "country": "USA",
+            "code": "JAN"
+        },
+        {
+            "city": "Jackson,TN",
+            "country": "USA",
+            "code": "MKL"
+        },
+        {
+            "city": "Jacksonville,FL",
+            "country": "USA",
+            "code": "JAX"
+        },
+        {
+            "city": "Jacksonville,NC",
+            "country": "USA",
+            "code": "OAJ"
+        },
+        {
+            "city": "Jakarta,Java",
+            "country": "Indonesia",
+            "code": "CGK"
+        },
+        {
+            "city": "Jakarta,Java",
+            "country": "Indonesia",
+            "code": "JKT-AllAirports"
+        },
+        {
+            "city": "Jalapa",
+            "country": "Mexico",
+            "code": "JAL"
+        },
+        {
+            "city": "Jamestown,ND",
+            "country": "USA",
+            "code": "JMS"
+        },
+        {
+            "city": "Jamestown,NY",
+            "country": "USA",
+            "code": "JHW"
+        },
+        {
+            "city": "Jeddah",
+            "country": "SaudiArabia",
+            "code": "JED"
+        },
+        {
+            "city": "Jeju,Korea",
+            "country": "Republicof",
+            "code": "CJU"
+        },
+        {
+            "city": "JerezdeLaFrontera",
+            "country": "Spain",
+            "code": "XRY"
+        },
+        {
+            "city": "Jersey",
+            "country": "ChannelIslands",
+            "code": "JER"
+        },
+        {
+            "city": "Jiamusi",
+            "country": "China",
+            "code": "JMU"
+        },
+        {
+            "city": "Jijiga",
+            "country": "Ethiopia",
+            "code": "JIJ"
+        },
+        {
+            "city": "Joensuu",
+            "country": "Finland",
+            "code": "JOE"
+        },
+        {
+            "city": "Johannesburg",
+            "country": "SouthAfrica",
+            "code": "JNB"
+        },
+        {
+            "city": "Johnstown,PA",
+            "country": "USA",
+            "code": "JST"
+        },
+        {
+            "city": "JohorBahru",
+            "country": "Malaysia",
+            "code": "JHB"
+        },
+        {
+            "city": "Jonesboro,AR",
+            "country": "USA",
+            "code": "JBR"
+        },
+        {
+            "city": "Jonkoping",
+            "country": "Sweden",
+            "code": "JKG"
+        },
+        {
+            "city": "Joplin,MO",
+            "country": "USA",
+            "code": "JLN"
+        },
+        {
+            "city": "Juneau,AK",
+            "country": "USA",
+            "code": "JNU"
+        },
+        {
+            "city": "Jyvaskyla",
+            "country": "Finland",
+            "code": "JYV"
+        },
+        {
+            "city": "Kabul",
+            "country": "Afghanistan",
+            "code": "KBL"
+        },
+        {
+            "city": "Kagoshima",
+            "country": "Japan",
+            "code": "KOJ"
+        },
+        {
+            "city": "Kahului,Maui,HI",
+            "country": "USA",
+            "code": "OGG"
+        },
+        {
+            "city": "Kailua-Kona,HI",
+            "country": "USA",
+            "code": "KOA"
+        },
+        {
+            "city": "Kaitaia",
+            "country": "NewZealand",
+            "code": "KAT"
+        },
+        {
+            "city": "Kajaani",
+            "country": "Finland",
+            "code": "KAJ"
+        },
+        {
+            "city": "Kalamazoo,MI",
+            "country": "USA",
+            "code": "AZO"
+        },
+        {
+            "city": "Kalaupapa,Molokai,HI",
+            "country": "USA",
+            "code": "LUP"
+        },
+        {
+            "city": "Kalgoorlie,W.A.",
+            "country": "Australia",
+            "code": "KGI"
+        },
+        {
+            "city": "Kalibo",
+            "country": "Philippines",
+            "code": "KLO"
+        },
+        {
+            "city": "Kaliningrad",
+            "country": "Russia",
+            "code": "KGD"
+        },
+        {
+            "city": "Kalispell,MT",
+            "country": "USA",
+            "code": "FCA"
+        },
+        {
+            "city": "Kalmar",
+            "country": "Sweden",
+            "code": "KLR"
+        },
+        {
+            "city": "Kamloops,BC",
+            "country": "Canada",
+            "code": "YKA"
+        },
+        {
+            "city": "Kamloops,BC",
+            "country": "Canada",
+            "code": "YKA"
+        },
+        {
+            "city": "Kamuela,Hawaii",
+            "country": "USA",
+            "code": "KOA"
+        },
+        {
+            "city": "KansasCity,MO",
+            "country": "USA",
+            "code": "MCI"
+        },
+        {
+            "city": "Kaohsiung",
+            "country": "Taiwan",
+            "code": "KHH"
+        },
+        {
+            "city": "Kapalua,Maui,HI",
+            "country": "USA",
+            "code": "JHM"
+        },
+        {
+            "city": "Karachi",
+            "country": "Pakistan",
+            "code": "KHI"
+        },
+        {
+            "city": "Karaganda",
+            "country": "Kazakhstan",
+            "code": "KGF"
+        },
+        {
+            "city": "Karlstad",
+            "country": "Sweden",
+            "code": "KSD"
+        },
+        {
+            "city": "Karratha,W.A.",
+            "country": "Australia",
+            "code": "KTA"
+        },
+        {
+            "city": "Karup",
+            "country": "Denmark",
+            "code": "KRP"
+        },
+        {
+            "city": "Kashi",
+            "country": "China",
+            "code": "KHG"
+        },
+        {
+            "city": "Kathmandu",
+            "country": "Nepal",
+            "code": "KTM"
+        },
+        {
+            "city": "Katowice",
+            "country": "Poland",
+            "code": "KTW"
+        },
+        {
+            "city": "Kearney,NE",
+            "country": "USA",
+            "code": "EAR"
+        },
+        {
+            "city": "Kelowna,BC",
+            "country": "Canada",
+            "code": "YLW"
+        },
+        {
+            "city": "Kelowna,BC",
+            "country": "Canada",
+            "code": "YLW"
+        },
+        {
+            "city": "Kenai,AK",
+            "country": "USA",
+            "code": "ENA"
+        },
+        {
+            "city": "Kenora,ON",
+            "country": "Canada",
+            "code": "YQK"
+        },
+        {
+            "city": "Kenora,ON",
+            "country": "Canada",
+            "code": "YQK"
+        },
+        {
+            "city": "Kerikeri",
+            "country": "NewZealand",
+            "code": "KKE"
+        },
+        {
+            "city": "Ketchikan,AK",
+            "country": "USA",
+            "code": "KTN"
+        },
+        {
+            "city": "KeyWest,FL",
+            "country": "USA",
+            "code": "EYW"
+        },
+        {
+            "city": "Kharkov",
+            "country": "Ukraine",
+            "code": "HRK"
+        },
+        {
+            "city": "Khartoum",
+            "country": "Sudan",
+            "code": "KRT"
+        },
+        {
+            "city": "KhonKaen",
+            "country": "Thailand",
+            "code": "KKC"
+        },
+        {
+            "city": "Kiel",
+            "country": "Germany",
+            "code": "KEL"
+        },
+        {
+            "city": "Kiev",
+            "country": "Ukraine",
+            "code": "KBP"
+        },
+        {
+            "city": "Kigali",
+            "country": "Rwanda",
+            "code": "KGL"
+        },
+        {
+            "city": "Killeen,TX",
+            "country": "USA",
+            "code": "GRK"
+        },
+        {
+            "city": "KingSalmon,AK",
+            "country": "USA",
+            "code": "AKN"
+        },
+        {
+            "city": "Kingman,AZ",
+            "country": "USA",
+            "code": "IGM"
+        },
+        {
+            "city": "Kingscote,KangarooIsland,S.A.",
+            "country": "Australia",
+            "code": "KGC"
+        },
+        {
+            "city": "Kingston",
+            "country": "Jamaica",
+            "code": "KIN"
+        },
+        {
+            "city": "Kingston",
+            "country": "Jamaica",
+            "code": "KTP"
+        },
+        {
+            "city": "Kingston,ON",
+            "country": "Canada",
+            "code": "YGK"
+        },
+        {
+            "city": "Kingston,ON",
+            "country": "Canada",
+            "code": "YGK"
+        },
+        {
+            "city": "Kingstown",
+            "country": "St.Vincent",
+            "code": "SVD"
+        },
+        {
+            "city": "Kinshasa",
+            "country": "Zaire",
+            "code": "FIH"
+        },
+        {
+            "city": "Kirksville,MO",
+            "country": "USA",
+            "code": "IRK"
+        },
+        {
+            "city": "Kirkwall,OrkneyIslands",
+            "country": "Scotland",
+            "code": "KOI"
+        },
+        {
+            "city": "Kiruna",
+            "country": "Sweden",
+            "code": "KRN"
+        },
+        {
+            "city": "Kisangani",
+            "country": "Zaire",
+            "code": "FKI"
+        },
+        {
+            "city": "Kittila",
+            "country": "Finland",
+            "code": "KTT"
+        },
+        {
+            "city": "Klagenfurt",
+            "country": "Austria",
+            "code": "KLU"
+        },
+        {
+            "city": "KlamathFalls,OR",
+            "country": "USA",
+            "code": "LMT"
+        },
+        {
+            "city": "Knoxville,TN",
+            "country": "USA",
+            "code": "TYS"
+        },
+        {
+            "city": "Kodiak,AK",
+            "country": "USA",
+            "code": "ADQ"
+        },
+        {
+            "city": "KohSamui",
+            "country": "Thailand",
+            "code": "USM"
+        },
+        {
+            "city": "Kokkola",
+            "country": "Finland",
+            "code": "KOK"
+        },
+        {
+            "city": "Komatsu",
+            "country": "Japan",
+            "code": "KMQ"
+        },
+        {
+            "city": "Koror",
+            "country": "Palau",
+            "code": "ROR"
+        },
+        {
+            "city": "Kos",
+            "country": "Greece",
+            "code": "KGS"
+        },
+        {
+            "city": "Kosrae",
+            "country": "Micronesia",
+            "code": "KSA"
+        },
+        {
+            "city": "KotaBharu",
+            "country": "Malaysia",
+            "code": "KBR"
+        },
+        {
+            "city": "KotaKinabalu,Sabah",
+            "country": "Malaysia",
+            "code": "BKI"
+        },
+        {
+            "city": "Krabi",
+            "country": "Thailand",
+            "code": "KBV"
+        },
+        {
+            "city": "Krakow",
+            "country": "Poland",
+            "code": "KRK"
+        },
+        {
+            "city": "Kralendijk",
+            "country": "Bonaire",
+            "code": "BON"
+        },
+        {
+            "city": "Kramfors",
+            "country": "Sweden",
+            "code": "KRF"
+        },
+        {
+            "city": "Kristiansand",
+            "country": "Norway",
+            "code": "KRS"
+        },
+        {
+            "city": "Kristianstad",
+            "country": "Sweden",
+            "code": "KID"
+        },
+        {
+            "city": "KualaLumpur",
+            "country": "Malaysia",
+            "code": "KUL"
+        },
+        {
+            "city": "KualaTerengganu",
+            "country": "Malaysia",
+            "code": "TGG"
+        },
+        {
+            "city": "Kuantan",
+            "country": "Malaysia",
+            "code": "KUA"
+        },
+        {
+            "city": "Kuching,Sarawak",
+            "country": "Malaysia",
+            "code": "KCH"
+        },
+        {
+            "city": "Kumamoto",
+            "country": "Japan",
+            "code": "KMJ"
+        },
+        {
+            "city": "Kunming",
+            "country": "China",
+            "code": "KMG"
+        },
+        {
+            "city": "Kuopio",
+            "country": "Finland",
+            "code": "KUO"
+        },
+        {
+            "city": "Kushiro",
+            "country": "Japan",
+            "code": "KUH"
+        },
+        {
+            "city": "Kuwait",
+            "country": "Kuwait",
+            "code": "KWI"
+        },
+        {
+            "city": "KzylOrda",
+            "country": "Kazakhstan",
+            "code": "KZO"
+        },
+        {
+            "city": "LaCoruna",
+            "country": "Spain",
+            "code": "LCG"
+        },
+        {
+            "city": "LaCrosse,WI",
+            "country": "USA",
+            "code": "LSE"
+        },
+        {
+            "city": "LaPaz",
+            "country": "Mexico",
+            "code": "LAP"
+        },
+        {
+            "city": "LaPaz",
+            "country": "Bolivia",
+            "code": "LPB"
+        },
+        {
+            "city": "LaRomana",
+            "country": "DominicanRepublic",
+            "code": "LRM"
+        },
+        {
+            "city": "LaSerena",
+            "country": "Chile",
+            "code": "LSC"
+        },
+        {
+            "city": "Lafayette,LA",
+            "country": "USA",
+            "code": "LFT"
+        },
+        {
+            "city": "Lagos",
+            "country": "Nigeria",
+            "code": "LOS"
+        },
+        {
+            "city": "LahadDatu,Sabah",
+            "country": "Malaysia",
+            "code": "LDU"
+        },
+        {
+            "city": "Lahore",
+            "country": "Pakistan",
+            "code": "LHE"
+        },
+        {
+            "city": "LakeCharles,LA",
+            "country": "USA",
+            "code": "LCH"
+        },
+        {
+            "city": "LakeHavasuCity,AZ",
+            "country": "USA",
+            "code": "HII"
+        },
+        {
+            "city": "LameziaTerme",
+            "country": "Italy",
+            "code": "SUF"
+        },
+        {
+            "city": "LanaiCity,Lanai,HI",
+            "country": "USA",
+            "code": "LNY"
+        },
+        {
+            "city": "Lancaster,PA",
+            "country": "USA",
+            "code": "LNS"
+        },
+        {
+            "city": "Langkawi",
+            "country": "Malaysia",
+            "code": "LGK"
+        },
+        {
+            "city": "Lannion",
+            "country": "France",
+            "code": "LAI"
+        },
+        {
+            "city": "Lansing,MI",
+            "country": "USA",
+            "code": "LAN"
+        },
+        {
+            "city": "Lanzhou",
+            "country": "China",
+            "code": "LHW"
+        },
+        {
+            "city": "Laramie,WY",
+            "country": "USA",
+            "code": "LAR"
+        },
+        {
+            "city": "Laredo,TX",
+            "country": "USA",
+            "code": "LRD"
+        },
+        {
+            "city": "Larnaca",
+            "country": "Cyprus",
+            "code": "LCA"
+        },
+        {
+            "city": "LasCruces,NM",
+            "country": "USA",
+            "code": "LRU"
+        },
+        {
+            "city": "LasPalmas,GrandCanaryIsland",
+            "country": "CanaryIslands",
+            "code": "LPA"
+        },
+        {
+            "city": "LasVegas,NV",
+            "country": "USA",
+            "code": "LAS"
+        },
+        {
+            "city": "Latrobe,PA",
+            "country": "USA",
+            "code": "LBE"
+        },
+        {
+            "city": "Launceston,Tas.",
+            "country": "Australia",
+            "code": "LST"
+        },
+        {
+            "city": "Laurel,MS",
+            "country": "USA",
+            "code": "PIB"
+        },
+        {
+            "city": "Lawton,OK",
+            "country": "USA",
+            "code": "LAW"
+        },
+        {
+            "city": "LazaroCardenas",
+            "country": "Mexico",
+            "code": "LZC"
+        },
+        {
+            "city": "LeHavre",
+            "country": "France",
+            "code": "LEH"
+        },
+        {
+            "city": "Lebanon,NH",
+            "country": "USA",
+            "code": "LEB"
+        },
+        {
+            "city": "Leeds",
+            "country": "England",
+            "code": "LBA"
+        },
+        {
+            "city": "Legaspi",
+            "country": "Philippines",
+            "code": "LGP"
+        },
+        {
+            "city": "Leipzig",
+            "country": "Germany",
+            "code": "LEJ"
+        },
+        {
+            "city": "Leon",
+            "country": "Mexico",
+            "code": "BJX"
+        },
+        {
+            "city": "Leon",
+            "country": "Spain",
+            "code": "LEN"
+        },
+        {
+            "city": "Lerwick,ShetlandIslands",
+            "country": "Scotland",
+            "code": "LSI"
+        },
+        {
+            "city": "Lethbridge,AB",
+            "country": "Canada",
+            "code": "YQL"
+        },
+        {
+            "city": "Lethbridge,AB",
+            "country": "Canada",
+            "code": "YQL"
+        },
+        {
+            "city": "Lewiston,ID",
+            "country": "USA",
+            "code": "LWS"
+        },
+        {
+            "city": "Lewiston,ME",
+            "country": "USA",
+            "code": "LEW"
+        },
+        {
+            "city": "Lewistown,MT",
+            "country": "USA",
+            "code": "LWT"
+        },
+        {
+            "city": "Lexington,KY",
+            "country": "USA",
+            "code": "LEX"
+        },
+        {
+            "city": "Lhasa,Tibet",
+            "country": "China",
+            "code": "LXA"
+        },
+        {
+            "city": "Liberal,KS",
+            "country": "USA",
+            "code": "LBL"
+        },
+        {
+            "city": "Liberia",
+            "country": "CostaRica",
+            "code": "LIR"
+        },
+        {
+            "city": "Libreville",
+            "country": "Gabon",
+            "code": "LBV"
+        },
+        {
+            "city": "Lihue,Kauai,HI",
+            "country": "USA",
+            "code": "LIH"
+        },
+        {
+            "city": "LijiangCity",
+            "country": "China",
+            "code": "LJG"
+        },
+        {
+            "city": "Lille",
+            "country": "France",
+            "code": "LIL"
+        },
+        {
+            "city": "Lilongwe",
+            "country": "Malawi",
+            "code": "LLW"
+        },
+        {
+            "city": "Lima",
+            "country": "Peru",
+            "code": "LIM"
+        },
+        {
+            "city": "Limoges",
+            "country": "France",
+            "code": "LIG"
+        },
+        {
+            "city": "Lincang",
+            "country": "China",
+            "code": "LNJ"
+        },
+        {
+            "city": "Lincoln,NE",
+            "country": "USA",
+            "code": "LNK"
+        },
+        {
+            "city": "Linkoping",
+            "country": "Sweden",
+            "code": "LPI"
+        },
+        {
+            "city": "Linz",
+            "country": "Austria",
+            "code": "LNZ"
+        },
+        {
+            "city": "Lisbon",
+            "country": "Portugal",
+            "code": "LIS"
+        },
+        {
+            "city": "LittleRock,AR",
+            "country": "USA",
+            "code": "LIT"
+        },
+        {
+            "city": "Liverpool",
+            "country": "England",
+            "code": "LPL"
+        },
+        {
+            "city": "Ljubljana",
+            "country": "Slovenia",
+            "code": "LJU"
+        },
+        {
+            "city": "Logrono",
+            "country": "Spain",
+            "code": "RJL"
+        },
+        {
+            "city": "Lome",
+            "country": "Togo",
+            "code": "LFW"
+        },
+        {
+            "city": "London",
+            "country": "England",
+            "code": "LCY"
+        },
+        {
+            "city": "London",
+            "country": "England",
+            "code": "LGW"
+        },
+        {
+            "city": "London",
+            "country": "England",
+            "code": "LHR"
+        },
+        {
+            "city": "London",
+            "country": "England",
+            "code": "LON-AllAirports"
+        },
+        {
+            "city": "London",
+            "country": "England",
+            "code": "STN"
+        },
+        {
+            "city": "London,ON",
+            "country": "Canada",
+            "code": "YXU"
+        },
+        {
+            "city": "London,ON",
+            "country": "Canada",
+            "code": "YXU"
+        },
+        {
+            "city": "Londonderry",
+            "country": "NorthernIreland",
+            "code": "LDY"
+        },
+        {
+            "city": "LongBanga",
+            "country": "Malaysia",
+            "code": "LBP"
+        },
+        {
+            "city": "LongBeach,CA",
+            "country": "USA",
+            "code": "LGB"
+        },
+        {
+            "city": "Longreach,Qld.",
+            "country": "Australia",
+            "code": "LRE"
+        },
+        {
+            "city": "Longview,TX",
+            "country": "USA",
+            "code": "GGG"
+        },
+        {
+            "city": "Longyearbyen,Svalbard",
+            "country": "Norway",
+            "code": "LYR"
+        },
+        {
+            "city": "Loreto",
+            "country": "Mexico",
+            "code": "LTO"
+        },
+        {
+            "city": "Lorient",
+            "country": "France",
+            "code": "LRT"
+        },
+        {
+            "city": "LosAngeles,CA",
+            "country": "USA",
+            "code": "LAX"
+        },
+        {
+            "city": "LosAngeles,CA",
+            "country": "USA",
+            "code": "QLA-All"
+        },
+        {
+            "city": "LosCabos",
+            "country": "Mexico",
+            "code": "SJD"
+        },
+        {
+            "city": "Louisville,KY,USA",
+            "country": "USA",
+            "code": "SDF"
+        },
+        {
+            "city": "Lourdes",
+            "country": "France",
+            "code": "LDE"
+        },
+        {
+            "city": "Luanda",
+            "country": "Angola",
+            "code": "LAD"
+        },
+        {
+            "city": "Lubbock,TX",
+            "country": "USA",
+            "code": "LBB"
+        },
+        {
+            "city": "Lubumbashi",
+            "country": "Zaire",
+            "code": "FBM"
+        },
+        {
+            "city": "Lugano",
+            "country": "Switzerland",
+            "code": "LUG"
+        },
+        {
+            "city": "Lugansk",
+            "country": "Ukraine",
+            "code": "VSG"
+        },
+        {
+            "city": "Lukla",
+            "country": "Nepal",
+            "code": "LUA"
+        },
+        {
+            "city": "Lulea",
+            "country": "Sweden",
+            "code": "LLA"
+        },
+        {
+            "city": "Lusaka",
+            "country": "Zambia",
+            "code": "LUN"
+        },
+        {
+            "city": "Luton",
+            "country": "England",
+            "code": "LTN"
+        },
+        {
+            "city": "Luxembourg",
+            "country": "Luxembourg",
+            "code": "LUX"
+        },
+        {
+            "city": "Luxor",
+            "country": "Egypt",
+            "code": "LXR"
+        },
+        {
+            "city": "Lycksele",
+            "country": "Sweden",
+            "code": "LYC"
+        },
+        {
+            "city": "Lynchburg,VA",
+            "country": "USA",
+            "code": "LYH"
+        },
+        {
+            "city": "Lyon",
+            "country": "France",
+            "code": "LYS"
+        },
+        {
+            "city": "Mackay,Qld.",
+            "country": "Australia",
+            "code": "MKY"
+        },
+        {
+            "city": "Macon,GA",
+            "country": "USA",
+            "code": "MCN"
+        },
+        {
+            "city": "Madison,WI",
+            "country": "USA",
+            "code": "MSN"
+        },
+        {
+            "city": "Madrid",
+            "country": "Spain",
+            "code": "MAD"
+        },
+        {
+            "city": "MaeHongSon",
+            "country": "Thailand",
+            "code": "HGN"
+        },
+        {
+            "city": "MagdalensIslands,PQ",
+            "country": "",
+            "code": ""
+        },
+        {
+            "city": "Mahebourg",
+            "country": "Mauritius",
+            "code": "MRU"
+        },
+        {
+            "city": "Majuro",
+            "country": "MarshallIslands",
+            "code": "MAJ"
+        },
+        {
+            "city": "MalaMala",
+            "country": "SouthAfrica",
+            "code": "AAM"
+        },
+        {
+            "city": "Malabo,BiokoIsland",
+            "country": "EquatorialGuinea",
+            "code": "SSG"
+        },
+        {
+            "city": "Malaga",
+            "country": "Spain",
+            "code": "AGP"
+        },
+        {
+            "city": "Male",
+            "country": "Maldives",
+            "code": "MLE"
+        },
+        {
+            "city": "Malmo",
+            "country": "Sweden",
+            "code": "MMA-AllAirports"
+        },
+        {
+            "city": "Malmo",
+            "country": "Sweden",
+            "code": "MMX"
+        },
+        {
+            "city": "Managua",
+            "country": "Nicaragua",
+            "code": "MGA"
+        },
+        {
+            "city": "Manama",
+            "country": "Bahrain",
+            "code": "BAH"
+        },
+        {
+            "city": "Manaus",
+            "country": "Brazil",
+            "code": "MAO"
+        },
+        {
+            "city": "Manchester",
+            "country": "England",
+            "code": "MAN"
+        },
+        {
+            "city": "Manchester,NH",
+            "country": "USA",
+            "code": "MHT"
+        },
+        {
+            "city": "MangroveCay,AndrosIsland",
+            "country": "Bahamas",
+            "code": "MAY"
+        },
+        {
+            "city": "Manhattan,KS",
+            "country": "USA",
+            "code": "MHK"
+        },
+        {
+            "city": "Manila",
+            "country": "Philippines",
+            "code": "MNL"
+        },
+        {
+            "city": "Manistee,MI",
+            "country": "USA",
+            "code": "MBL"
+        },
+        {
+            "city": "Manzanillo",
+            "country": "Mexico",
+            "code": "ZLO"
+        },
+        {
+            "city": "Manzini",
+            "country": "Swaziland",
+            "code": "MTS"
+        },
+        {
+            "city": "Mao,Minorca",
+            "country": "Spain",
+            "code": "MAH"
+        },
+        {
+            "city": "Maputo",
+            "country": "Mozambique",
+            "code": "MPM"
+        },
+        {
+            "city": "Maracaibo",
+            "country": "Venezuela",
+            "code": "MAR"
+        },
+        {
+            "city": "Mariehamn,Aland",
+            "country": "Finland",
+            "code": "MHQ"
+        },
+        {
+            "city": "Marilia",
+            "country": "Brazil",
+            "code": "MII"
+        },
+        {
+            "city": "Marion,IL",
+            "country": "USA",
+            "code": "MWA"
+        },
+        {
+            "city": "Mariupol",
+            "country": "Ukraine",
+            "code": "MPW"
+        },
+        {
+            "city": "Maroochydore,Qld.",
+            "country": "Australia",
+            "code": "MCY"
+        },
+        {
+            "city": "Marquette,MI",
+            "country": "USA",
+            "code": "MQT"
+        },
+        {
+            "city": "Marrakech",
+            "country": "Morocco",
+            "code": "RAK"
+        },
+        {
+            "city": "Marrakech",
+            "country": "Morocco",
+            "code": "RAK"
+        },
+        {
+            "city": "Marseille",
+            "country": "France",
+            "code": "MRS"
+        },
+        {
+            "city": "MarshHarbour,AbacoIsland",
+            "country": "Bahamas",
+            "code": "MHH"
+        },
+        {
+            "city": "Martha'sVineyard,MA",
+            "country": "USA",
+            "code": "MVY"
+        },
+        {
+            "city": "Maseru",
+            "country": "Lesotho",
+            "code": "MSU"
+        },
+        {
+            "city": "MasonCity,IA",
+            "country": "USA",
+            "code": "MCW"
+        },
+        {
+            "city": "Massena,NY",
+            "country": "USA",
+            "code": "MSS"
+        },
+        {
+            "city": "Matsu",
+            "country": "Taiwan",
+            "code": "MFK"
+        },
+        {
+            "city": "Matsuyama",
+            "country": "Japan",
+            "code": "MYJ"
+        },
+        {
+            "city": "Mazatlan",
+            "country": "Mexico",
+            "code": "MZT"
+        },
+        {
+            "city": "McAllen,TX",
+            "country": "USA",
+            "code": "MFE"
+        },
+        {
+            "city": "McCook,NE",
+            "country": "USA",
+            "code": "MCK"
+        },
+        {
+            "city": "Medan,Sumatra",
+            "country": "Indonesia",
+            "code": "MES"
+        },
+        {
+            "city": "Medellin",
+            "country": "Colombia",
+            "code": "MDE"
+        },
+        {
+            "city": "Medford,OR",
+            "country": "USA",
+            "code": "MFR"
+        },
+        {
+            "city": "MedicineHat,AB",
+            "country": "Canada",
+            "code": "YXH"
+        },
+        {
+            "city": "MedicineHat,AB",
+            "country": "Canada",
+            "code": "YXH"
+        },
+        {
+            "city": "Melbourne,FL",
+            "country": "USA",
+            "code": "MLB"
+        },
+        {
+            "city": "Melbourne,Vic.",
+            "country": "Australia",
+            "code": "AVV"
+        },
+        {
+            "city": "Melbourne,Vic.",
+            "country": "Australia",
+            "code": "MEL"
+        },
+        {
+            "city": "Melilla",
+            "country": "Spain",
+            "code": "MLN"
+        },
+        {
+            "city": "Memanbetsu",
+            "country": "Japan",
+            "code": "MMB"
+        },
+        {
+            "city": "Memphis,TN",
+            "country": "USA",
+            "code": "MEM"
+        },
+        {
+            "city": "Mendoza",
+            "country": "Argentina",
+            "code": "MDZ"
+        },
+        {
+            "city": "Merida",
+            "country": "Mexico",
+            "code": "MID"
+        },
+        {
+            "city": "Meridian,MS",
+            "country": "USA",
+            "code": "MEI"
+        },
+        {
+            "city": "Merimbula,N.S.W.",
+            "country": "Australia",
+            "code": "MIM"
+        },
+        {
+            "city": "Metz",
+            "country": "France",
+            "code": "ETZ"
+        },
+        {
+            "city": "Mexicali",
+            "country": "Mexico",
+            "code": "MXL"
+        },
+        {
+            "city": "MexicoCity",
+            "country": "Mexico",
+            "code": "MEX"
+        },
+        {
+            "city": "Miami,FL",
+            "country": "USA",
+            "code": "MIA"
+        },
+        {
+            "city": "MianYang",
+            "country": "China",
+            "code": "MIG"
+        },
+        {
+            "city": "Midland,TX",
+            "country": "USA",
+            "code": "MAF"
+        },
+        {
+            "city": "Mikonos",
+            "country": "Greece",
+            "code": "JMK"
+        },
+        {
+            "city": "Milan",
+            "country": "Italy",
+            "code": "LIN"
+        },
+        {
+            "city": "Milan",
+            "country": "Italy",
+            "code": "MIL-All"
+        },
+        {
+            "city": "Milan",
+            "country": "Italy",
+            "code": "MXP"
+        },
+        {
+            "city": "Mildura,Vic.",
+            "country": "Australia",
+            "code": "MQL"
+        },
+        {
+            "city": "MilesCity,MT",
+            "country": "USA",
+            "code": "MLS"
+        },
+        {
+            "city": "Milwaukee,WI",
+            "country": "USA",
+            "code": "MKE"
+        },
+        {
+            "city": "Minneapolis,MN",
+            "country": "USA",
+            "code": "MSP"
+        },
+        {
+            "city": "Minot,ND",
+            "country": "USA",
+            "code": "MOT"
+        },
+        {
+            "city": "Minsk",
+            "country": "Belarus",
+            "code": "MHP"
+        },
+        {
+            "city": "Minsk",
+            "country": "Belarus",
+            "code": "MSQ"
+        },
+        {
+            "city": "Miri,Sarawak",
+            "country": "Malaysia",
+            "code": "MYY"
+        },
+        {
+            "city": "Misawa",
+            "country": "Japan",
+            "code": "MSJ"
+        },
+        {
+            "city": "Missoula,MT",
+            "country": "USA",
+            "code": "MSO"
+        },
+        {
+            "city": "Miyazaki",
+            "country": "Japan",
+            "code": "KMI"
+        },
+        {
+            "city": "Mobile,AL",
+            "country": "USA",
+            "code": "MOB"
+        },
+        {
+            "city": "Modesto,CA",
+            "country": "USA",
+            "code": "MOD"
+        },
+        {
+            "city": "Mogadishu",
+            "country": "Somalia",
+            "code": "MGQ"
+        },
+        {
+            "city": "Moline,IL",
+            "country": "USA",
+            "code": "MLI"
+        },
+        {
+            "city": "Mombasa",
+            "country": "Kenya",
+            "code": "MBA"
+        },
+        {
+            "city": "Monastir",
+            "country": "Tunisia",
+            "code": "MIR"
+        },
+        {
+            "city": "Monclova",
+            "country": "Mexico",
+            "code": "LOV"
+        },
+        {
+            "city": "Moncton,NB",
+            "country": "Canada",
+            "code": "YQM"
+        },
+        {
+            "city": "Moncton,NB",
+            "country": "Canada",
+            "code": "YQM"
+        },
+        {
+            "city": "Monroe,LA",
+            "country": "USA",
+            "code": "MLU"
+        },
+        {
+            "city": "Monrovia",
+            "country": "Liberia",
+            "code": "ROB"
+        },
+        {
+            "city": "Mont-Joli,PQ",
+            "country": "Canada",
+            "code": "YYY"
+        },
+        {
+            "city": "Mont-Joli,PQ",
+            "country": "Canada",
+            "code": "YYY"
+        },
+        {
+            "city": "MontegoBay",
+            "country": "Jamaica",
+            "code": "MBJ"
+        },
+        {
+            "city": "Monterey,CA",
+            "country": "USA",
+            "code": "MRY"
+        },
+        {
+            "city": "Monterrey",
+            "country": "Mexico",
+            "code": "MTY"
+        },
+        {
+            "city": "Montevideo",
+            "country": "Uruguay",
+            "code": "MVD"
+        },
+        {
+            "city": "Montgomery,AL",
+            "country": "USA",
+            "code": "MGM"
+        },
+        {
+            "city": "Montpellier",
+            "country": "France",
+            "code": "MPL"
+        },
+        {
+            "city": "Montreal,PQ",
+            "country": "Canada",
+            "code": "YMQ-All"
+        },
+        {
+            "city": "Montreal,PQ",
+            "country": "Canada",
+            "code": "YUL"
+        },
+        {
+            "city": "Montreal,PQ",
+            "country": "Canada",
+            "code": "YMQAll"
+        },
+        {
+            "city": "Montreal,PQ",
+            "country": "Canada",
+            "code": "YUL"
+        },
+        {
+            "city": "Montrose,CO",
+            "country": "USA",
+            "code": "MTJ"
+        },
+        {
+            "city": "Mora",
+            "country": "Sweden",
+            "code": "MXX"
+        },
+        {
+            "city": "Moree,N.S.W.",
+            "country": "Australia",
+            "code": "MRZ"
+        },
+        {
+            "city": "Morelia",
+            "country": "Mexico",
+            "code": "MLM"
+        },
+        {
+            "city": "Morgantown,WV",
+            "country": "USA",
+            "code": "MGW"
+        },
+        {
+            "city": "Moroni",
+            "country": "ComoroIslands",
+            "code": "HAH"
+        },
+        {
+            "city": "Moruya,N.S.W.",
+            "country": "Australia",
+            "code": "MYA"
+        },
+        {
+            "city": "Moscow",
+            "country": "Russia",
+            "code": "MOWAll"
+        },
+        {
+            "city": "Moscow",
+            "country": "Russia",
+            "code": "SVO"
+        },
+        {
+            "city": "Moscow",
+            "country": "Russia",
+            "code": "VKO"
+        },
+        {
+            "city": "MosesLake,WA",
+            "country": "USA",
+            "code": "MWH"
+        },
+        {
+            "city": "MountGambier,S.A.",
+            "country": "Australia",
+            "code": "MGB"
+        },
+        {
+            "city": "MountIsa,Qld.",
+            "country": "Australia",
+            "code": "ISA"
+        },
+        {
+            "city": "Mudanjiang",
+            "country": "China",
+            "code": "MDG"
+        },
+        {
+            "city": "Mulhouse",
+            "country": "France",
+            "code": "EAP-All"
+        },
+        {
+            "city": "Mulhouse",
+            "country": "France",
+            "code": "MLH"
+        },
+        {
+            "city": "Mulu",
+            "country": "Malaysia",
+            "code": "MZV"
+        },
+        {
+            "city": "Mumbai(Bombay)",
+            "country": "India",
+            "code": "BOM"
+        },
+        {
+            "city": "Munich",
+            "country": "Germany",
+            "code": "MUC"
+        },
+        {
+            "city": "Munster",
+            "country": "Germany",
+            "code": "FMO"
+        },
+        {
+            "city": "Murcia",
+            "country": "Spain",
+            "code": "MJV"
+        },
+        {
+            "city": "Murmansk",
+            "country": "Russia",
+            "code": "MMK"
+        },
+        {
+            "city": "Muscat",
+            "country": "Oman",
+            "code": "MCT"
+        },
+        {
+            "city": "MuscleShoals,AL",
+            "country": "USA",
+            "code": "MSL"
+        },
+        {
+            "city": "Muskegon,MI",
+            "country": "USA",
+            "code": "MKG"
+        },
+        {
+            "city": "MyrtleBeach,SC",
+            "country": "USA",
+            "code": "MYR"
+        },
+        {
+            "city": "Mytilene,LesbosIsland",
+            "country": "Greece",
+            "code": "MJT"
+        },
+        {
+            "city": "N'Djamena",
+            "country": "Chad",
+            "code": "NDJ"
+        },
+        {
+            "city": "Nadi",
+            "country": "Fiji",
+            "code": "NAN"
+        },
+        {
+            "city": "Nador",
+            "country": "Morocco",
+            "code": "NDR"
+        },
+        {
+            "city": "Nagasaki",
+            "country": "Japan",
+            "code": "NGS"
+        },
+        {
+            "city": "Nagoya",
+            "country": "Japan",
+            "code": "NGO"
+        },
+        {
+            "city": "Nagoya",
+            "country": "Japan",
+            "code": "NKM"
+        },
+        {
+            "city": "Naha,Okinawa",
+            "country": "Japan",
+            "code": "OKA"
+        },
+        {
+            "city": "Nairobi",
+            "country": "Kenya",
+            "code": "NBO"
+        },
+        {
+            "city": "NakhonSiThammarat",
+            "country": "Thailand",
+            "code": "NST"
+        },
+        {
+            "city": "Nanaimo,BC",
+            "country": "Canada",
+            "code": "YCD"
+        },
+        {
+            "city": "Nanaimo,BC",
+            "country": "Canada",
+            "code": "YCD"
+        },
+        {
+            "city": "Nanchang",
+            "country": "China",
+            "code": "KHN"
+        },
+        {
+            "city": "Nangen",
+            "country": "Taiwan",
+            "code": "LZN"
+        },
+        {
+            "city": "Nanjing",
+            "country": "China",
+            "code": "NKG"
+        },
+        {
+            "city": "NankiShirahama",
+            "country": "Japan",
+            "code": "SHM"
+        },
+        {
+            "city": "Nanning",
+            "country": "China",
+            "code": "NNG"
+        },
+        {
+            "city": "Nantes",
+            "country": "France",
+            "code": "NTE"
+        },
+        {
+            "city": "Nantucket,MA",
+            "country": "USA",
+            "code": "ACK"
+        },
+        {
+            "city": "Napier",
+            "country": "NewZealand",
+            "code": "NPE"
+        },
+        {
+            "city": "Naples",
+            "country": "Italy",
+            "code": "NAP"
+        },
+        {
+            "city": "Naples,FL",
+            "country": "USA",
+            "code": "APF"
+        },
+        {
+            "city": "Narrabri,N.S.W.",
+            "country": "Australia",
+            "code": "NAA"
+        },
+        {
+            "city": "Narrandera,N.S.W.",
+            "country": "Australia",
+            "code": "NRA"
+        },
+        {
+            "city": "Narvik",
+            "country": "Norway",
+            "code": "NVK"
+        },
+        {
+            "city": "NaryanMar",
+            "country": "Russia",
+            "code": "NNM"
+        },
+        {
+            "city": "Nashville,TN",
+            "country": "USA",
+            "code": "BNA"
+        },
+        {
+            "city": "Nassau",
+            "country": "Bahamas",
+            "code": "NAS"
+        },
+        {
+            "city": "Nassau",
+            "country": "Bahamas",
+            "code": "PID"
+        },
+        {
+            "city": "Naze,Amami-OIsland",
+            "country": "Japan",
+            "code": "ASJ"
+        },
+        {
+            "city": "Nelson",
+            "country": "NewZealand",
+            "code": "NSN"
+        },
+        {
+            "city": "Nelspruit",
+            "country": "SouthAfrica",
+            "code": "MQP"
+        },
+        {
+            "city": "NewBern,NC",
+            "country": "USA",
+            "code": "EWN"
+        },
+        {
+            "city": "NewHaven,CT",
+            "country": "USA",
+            "code": "HVN"
+        },
+        {
+            "city": "NewOrleans,LA",
+            "country": "USA",
+            "code": "MSY"
+        },
+        {
+            "city": "NewYork,NY",
+            "country": "USA",
+            "code": "JFK"
+        },
+        {
+            "city": "NewYork,NY",
+            "country": "USA",
+            "code": "LGA"
+        },
+        {
+            "city": "NewYork,NY",
+            "country": "USA",
+            "code": "NYC-All"
+        },
+        {
+            "city": "Newark,NJ",
+            "country": "USA",
+            "code": "EWR"
+        },
+        {
+            "city": "Newburgh,NY",
+            "country": "USA",
+            "code": "SWF"
+        },
+        {
+            "city": "Newcastle",
+            "country": "England",
+            "code": "NCL"
+        },
+        {
+            "city": "Newcastle,N.S.W.",
+            "country": "Australia",
+            "code": "NTL"
+        },
+        {
+            "city": "Newman,W.A.",
+            "country": "Australia",
+            "code": "ZNE"
+        },
+        {
+            "city": "NewportNews,VA",
+            "country": "USA",
+            "code": "PHF"
+        },
+        {
+            "city": "Niamey",
+            "country": "Niger",
+            "code": "NIM"
+        },
+        {
+            "city": "Nice",
+            "country": "France",
+            "code": "NCE"
+        },
+        {
+            "city": "Niigata",
+            "country": "Japan",
+            "code": "KIJ"
+        },
+        {
+            "city": "Ningbo",
+            "country": "China",
+            "code": "NGB"
+        },
+        {
+            "city": "NizhniyNovgorod",
+            "country": "Russia",
+            "code": "GOJ"
+        },
+        {
+            "city": "Nome,AK",
+            "country": "USA",
+            "code": "OME"
+        },
+        {
+            "city": "Norfolk,VA",
+            "country": "USA",
+            "code": "ORF"
+        },
+        {
+            "city": "Norrkoping",
+            "country": "Sweden",
+            "code": "NRK"
+        },
+        {
+            "city": "NorthBay,ON",
+            "country": "Canada",
+            "code": "YYB"
+        },
+        {
+            "city": "NorthBay,ON",
+            "country": "Canada",
+            "code": "YYB"
+        },
+        {
+            "city": "NorthBend,OR",
+            "country": "USA",
+            "code": "OTH"
+        },
+        {
+            "city": "NorthEleuthera",
+            "country": "Bahamas",
+            "code": "ELH"
+        },
+        {
+            "city": "NorthPlatte,NE",
+            "country": "USA",
+            "code": "LBF"
+        },
+        {
+            "city": "Norwich",
+            "country": "England",
+            "code": "NWI"
+        },
+        {
+            "city": "Nouakchott",
+            "country": "Mauritania",
+            "code": "NKC"
+        },
+        {
+            "city": "Noumea",
+            "country": "NewCaledonia",
+            "code": "GEA"
+        },
+        {
+            "city": "Noumea",
+            "country": "NewCaledonia",
+            "code": "NOU"
+        },
+        {
+            "city": "Novosibirsk,Siberia",
+            "country": "Russia",
+            "code": "OVB"
+        },
+        {
+            "city": "NuevoLaredo",
+            "country": "Mexico",
+            "code": "NLD"
+        },
+        {
+            "city": "Nuremberg",
+            "country": "Germany",
+            "code": "NUE"
+        },
+        {
+            "city": "Oakland,CA",
+            "country": "USA",
+            "code": "OAK"
+        },
+        {
+            "city": "Oaxaca",
+            "country": "Mexico",
+            "code": "OAX"
+        },
+        {
+            "city": "Obihiro",
+            "country": "Japan",
+            "code": "OBO"
+        },
+        {
+            "city": "OchoRios",
+            "country": "Jamaica",
+            "code": "OCJ"
+        },
+        {
+            "city": "OdateNoshiro",
+            "country": "Japan",
+            "code": "ONJ"
+        },
+        {
+            "city": "Odessa",
+            "country": "Ukraine",
+            "code": "ODS"
+        },
+        {
+            "city": "Ogdensburg,NY",
+            "country": "USA",
+            "code": "OGS"
+        },
+        {
+            "city": "Oita",
+            "country": "Japan",
+            "code": "OIT"
+        },
+        {
+            "city": "OklahomaCity,OK",
+            "country": "USA",
+            "code": "OKC"
+        },
+        {
+            "city": "Olbia,Sardinia",
+            "country": "Italy",
+            "code": "OLB"
+        },
+        {
+            "city": "OlympicDam,S.A.",
+            "country": "Australia",
+            "code": "OLP"
+        },
+        {
+            "city": "Omaha,NE",
+            "country": "USA",
+            "code": "OMA"
+        },
+        {
+            "city": "Omsk,Siberia",
+            "country": "Russia",
+            "code": "OMS"
+        },
+        {
+            "city": "Ontario,CA",
+            "country": "USA",
+            "code": "ONT"
+        },
+        {
+            "city": "OrangeCounty,CA",
+            "country": "USA",
+            "code": "SNA"
+        },
+        {
+            "city": "Orange,N.S.W.",
+            "country": "Australia",
+            "code": "OAG"
+        },
+        {
+            "city": "Oranjestad",
+            "country": "Aruba",
+            "code": "AUA"
+        },
+        {
+            "city": "Oranjestad",
+            "country": "St.Eustatius",
+            "code": "EUX"
+        },
+        {
+            "city": "Orebro",
+            "country": "Sweden",
+            "code": "ORB"
+        },
+        {
+            "city": "Orlando,FL",
+            "country": "USA",
+            "code": "MCO"
+        },
+        {
+            "city": "Ornskoldsvik",
+            "country": "Sweden",
+            "code": "OER"
+        },
+        {
+            "city": "Osaka",
+            "country": "Japan",
+            "code": "ITM"
+        },
+        {
+            "city": "Osaka",
+            "country": "Japan",
+            "code": "KIX"
+        },
+        {
+            "city": "Osaka",
+            "country": "Japan",
+            "code": "OSA-AllAirports"
+        },
+        {
+            "city": "Oshkosh,WI",
+            "country": "USA",
+            "code": "OSH"
+        },
+        {
+            "city": "Oslo",
+            "country": "Norway",
+            "code": "OSL"
+        },
+        {
+            "city": "Osorno",
+            "country": "Chile",
+            "code": "ZOS"
+        },
+        {
+            "city": "Ostersund",
+            "country": "Sweden",
+            "code": "OSD"
+        },
+        {
+            "city": "Ostrava",
+            "country": "CzechRepublic",
+            "code": "OSR"
+        },
+        {
+            "city": "Ottawa,ON",
+            "country": "Canada",
+            "code": "YOW"
+        },
+        {
+            "city": "Ottawa,ON",
+            "country": "Canada",
+            "code": "YOW"
+        },
+        {
+            "city": "Ouagadougou",
+            "country": "BurkinaFaso",
+            "code": "OUA"
+        },
+        {
+            "city": "Oulu",
+            "country": "Finland",
+            "code": "OUL"
+        },
+        {
+            "city": "Owensboro,KY",
+            "country": "USA",
+            "code": "OWB"
+        },
+        {
+            "city": "Oxnard,CA",
+            "country": "USA",
+            "code": "OXR"
+        },
+        {
+            "city": "Paderborn",
+            "country": "Germany",
+            "code": "PAD"
+        },
+        {
+            "city": "Paducah,KY",
+            "country": "USA",
+            "code": "PAH"
+        },
+        {
+            "city": "Page,AZ",
+            "country": "USA",
+            "code": "PGA"
+        },
+        {
+            "city": "PagoPago,Tutuila",
+            "country": "AmericanSamoa",
+            "code": "PPG"
+        },
+        {
+            "city": "Pajala",
+            "country": "Sweden",
+            "code": "PJA"
+        },
+        {
+            "city": "Palembang,Sumatra",
+            "country": "Indonesia",
+            "code": "PLM"
+        },
+        {
+            "city": "Palermo,Sicily",
+            "country": "Italy",
+            "code": "PMO"
+        },
+        {
+            "city": "PalmSprings,CA",
+            "country": "USA",
+            "code": "PSP"
+        },
+        {
+            "city": "Palma,Mallorca",
+            "country": "Spain",
+            "code": "PMI"
+        },
+        {
+            "city": "Palmas",
+            "country": "Brazil",
+            "code": "PMW"
+        },
+        {
+            "city": "PalmerstonNorth",
+            "country": "NewZealand",
+            "code": "PMR"
+        },
+        {
+            "city": "Pamplona",
+            "country": "Spain",
+            "code": "PNA"
+        },
+        {
+            "city": "PanamaCity",
+            "country": "Panama",
+            "code": "PTY"
+        },
+        {
+            "city": "PanamaCity,FL",
+            "country": "USA",
+            "code": "PFN"
+        },
+        {
+            "city": "Papeete,Tahiti",
+            "country": "FrenchPolynesia",
+            "code": "PPT"
+        },
+        {
+            "city": "Paphos",
+            "country": "Cyprus",
+            "code": "PFO"
+        },
+        {
+            "city": "Paraburdoo,W.A.",
+            "country": "Australia",
+            "code": "PBO"
+        },
+        {
+            "city": "Paramaribo",
+            "country": "Suriname",
+            "code": "PBM"
+        },
+        {
+            "city": "Paris",
+            "country": "France",
+            "code": "CDG"
+        },
+        {
+            "city": "Paris",
+            "country": "France",
+            "code": "ORY"
+        },
+        {
+            "city": "Paris",
+            "country": "France",
+            "code": "PAR-All"
+        },
+        {
+            "city": "Parkersburg,WV",
+            "country": "USA",
+            "code": "PKB"
+        },
+        {
+            "city": "Parkes,N.S.W.",
+            "country": "Australia",
+            "code": "PKE"
+        },
+        {
+            "city": "Pasco,WA",
+            "country": "USA",
+            "code": "PSC"
+        },
+        {
+            "city": "Pau",
+            "country": "France",
+            "code": "PUF"
+        },
+        {
+            "city": "Pellston,MI",
+            "country": "USA",
+            "code": "PLN"
+        },
+        {
+            "city": "Penang,PenangIsland",
+            "country": "Malaysia",
+            "code": "PEN"
+        },
+        {
+            "city": "Pendleton,OR",
+            "country": "USA",
+            "code": "PDT"
+        },
+        {
+            "city": "Pensacola,FL",
+            "country": "USA",
+            "code": "PNS"
+        },
+        {
+            "city": "Penticton,BC",
+            "country": "Canada",
+            "code": "YYF"
+        },
+        {
+            "city": "Penticton,BC",
+            "country": "Canada",
+            "code": "YYF"
+        },
+        {
+            "city": "Peoria,IL",
+            "country": "USA",
+            "code": "PIA"
+        },
+        {
+            "city": "Perpignan",
+            "country": "France",
+            "code": "PGF"
+        },
+        {
+            "city": "Perth,W.A.",
+            "country": "Australia",
+            "code": "PER"
+        },
+        {
+            "city": "Perugia",
+            "country": "Italy",
+            "code": "PEG"
+        },
+        {
+            "city": "Peshawar",
+            "country": "Pakistan",
+            "code": "PEW"
+        },
+        {
+            "city": "Petropavlovsk-Kamchatsky,Siberia",
+            "country": "Russia",
+            "code": "PKC"
+        },
+        {
+            "city": "Philadelphia,PA",
+            "country": "USA",
+            "code": "PHL"
+        },
+        {
+            "city": "Philipsburg",
+            "country": "St.Maarten",
+            "code": "SXM"
+        },
+        {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "code": "PHS"
+        },
+        {
+            "city": "PhnomPenh",
+            "country": "Cambodia",
+            "code": "PNH"
+        },
+        {
+            "city": "Phoenix,AZ",
+            "country": "USA",
+            "code": "PHX"
+        },
+        {
+            "city": "Phuket",
+            "country": "Thailand",
+            "code": "HKT"
+        },
+        {
+            "city": "PiedrasNegras",
+            "country": "Mexico",
+            "code": "PDS"
+        },
+        {
+            "city": "Pierre,SD",
+            "country": "USA",
+            "code": "PIR"
+        },
+        {
+            "city": "Pinehurst,NC",
+            "country": "USA",
+            "code": "SOP"
+        },
+        {
+            "city": "Pisa",
+            "country": "Italy",
+            "code": "PSA"
+        },
+        {
+            "city": "Pittsburgh,PA",
+            "country": "USA",
+            "code": "PIT"
+        },
+        {
+            "city": "Placencia",
+            "country": "Belize",
+            "code": "PLJ"
+        },
+        {
+            "city": "Plattsburgh,NY",
+            "country": "USA",
+            "code": "PLB"
+        },
+        {
+            "city": "Pleiku",
+            "country": "Vietnam",
+            "code": "PXU"
+        },
+        {
+            "city": "Pocatello,ID",
+            "country": "USA",
+            "code": "PIH"
+        },
+        {
+            "city": "Pohnpei",
+            "country": "Micronesia",
+            "code": "PNI"
+        },
+        {
+            "city": "Pointe-A-Pitre,Grande-Terre",
+            "country": "Guadeloupe",
+            "code": "PTP"
+        },
+        {
+            "city": "PoncaCity,OK",
+            "country": "USA",
+            "code": "PNC"
+        },
+        {
+            "city": "PontaDelgada,SaoMiguelIsland",
+            "country": "Azores",
+            "code": "PDL"
+        },
+        {
+            "city": "PortHardy,BC",
+            "country": "Canada",
+            "code": "YZT"
+        },
+        {
+            "city": "PortHardy,BC",
+            "country": "Canada",
+            "code": "YZT"
+        },
+        {
+            "city": "PortHedland,W.A.",
+            "country": "Australia",
+            "code": "PHE"
+        },
+        {
+            "city": "PortLincoln,S.A.",
+            "country": "Australia",
+            "code": "PLO"
+        },
+        {
+            "city": "PortMacquarie,N.S.W.",
+            "country": "Australia",
+            "code": "PQQ"
+        },
+        {
+            "city": "PortMoresby",
+            "country": "Papua-NewGuinea",
+            "code": "POM"
+        },
+        {
+            "city": "PortofSpain",
+            "country": "TrinidadandTobago",
+            "code": "POS"
+        },
+        {
+            "city": "PortVila,EfateIsland",
+            "country": "Vanuatu",
+            "code": "VLI"
+        },
+        {
+            "city": "Port-au-Prince",
+            "country": "Haiti",
+            "code": "PAP"
+        },
+        {
+            "city": "Portland,ME",
+            "country": "USA",
+            "code": "PWM"
+        },
+        {
+            "city": "Portland,OR",
+            "country": "USA",
+            "code": "PDX"
+        },
+        {
+            "city": "Portland,Vic.",
+            "country": "Australia",
+            "code": "PTJ"
+        },
+        {
+            "city": "Porto",
+            "country": "Portugal",
+            "code": "OPO"
+        },
+        {
+            "city": "PortoAlegre",
+            "country": "Brazil",
+            "code": "POA"
+        },
+        {
+            "city": "PortoSanto",
+            "country": "Madeira",
+            "code": "PXO"
+        },
+        {
+            "city": "Portsmouth,NH",
+            "country": "USA",
+            "code": "PSM"
+        },
+        {
+            "city": "PowellRiver,BC",
+            "country": "Canada",
+            "code": "YPW"
+        },
+        {
+            "city": "PowellRiver,BC",
+            "country": "Canada",
+            "code": "YPW"
+        },
+        {
+            "city": "Poznan",
+            "country": "Poland",
+            "code": "POZ"
+        },
+        {
+            "city": "Prague",
+            "country": "CzechRepublic",
+            "code": "PRG"
+        },
+        {
+            "city": "Prescott,AZ",
+            "country": "USA",
+            "code": "PRC"
+        },
+        {
+            "city": "PresqueIsle,ME",
+            "country": "USA",
+            "code": "PQI"
+        },
+        {
+            "city": "PrinceGeorge,BC",
+            "country": "Canada",
+            "code": "YXS"
+        },
+        {
+            "city": "PrinceGeorge,BC",
+            "country": "Canada",
+            "code": "YXS"
+        },
+        {
+            "city": "PrinceRupert,BC",
+            "country": "Canada",
+            "code": "YPR"
+        },
+        {
+            "city": "PrinceRupert,BC",
+            "country": "Canada",
+            "code": "YPR"
+        },
+        {
+            "city": "Proserpine,Qld.",
+            "country": "Australia",
+            "code": "PPP"
+        },
+        {
+            "city": "Providence,RI",
+            "country": "USA",
+            "code": "PVD"
+        },
+        {
+            "city": "ProvidencialesIsland",
+            "country": "TurksandCaicosIslands",
+            "code": "PLS"
+        },
+        {
+            "city": "Provincetown,MA",
+            "country": "USA",
+            "code": "PVC"
+        },
+        {
+            "city": "Pucon",
+            "country": "Chile",
+            "code": "ZPC"
+        },
+        {
+            "city": "Puebla",
+            "country": "Mexico",
+            "code": "PBC"
+        },
+        {
+            "city": "Pueblo,CO",
+            "country": "USA",
+            "code": "PUB"
+        },
+        {
+            "city": "PuertodelRosario,FuerteventuraIsland",
+            "country": "CanaryIslands",
+            "code": "FUE"
+        },
+        {
+            "city": "PuertoEscondido",
+            "country": "Mexico",
+            "code": "PXM"
+        },
+        {
+            "city": "PuertoMontt",
+            "country": "Chile",
+            "code": "PMC"
+        },
+        {
+            "city": "PuertoPlata",
+            "country": "DominicanRepublic",
+            "code": "POP"
+        },
+        {
+            "city": "PuertoPrincesa",
+            "country": "Philippines",
+            "code": "PPS"
+        },
+        {
+            "city": "PuertoVallarta",
+            "country": "Mexico",
+            "code": "PVR"
+        },
+        {
+            "city": "Pullman,WA",
+            "country": "USA",
+            "code": "PUW"
+        },
+        {
+            "city": "PuntaArenas,TierradelFuego",
+            "country": "Chile",
+            "code": "PUQ"
+        },
+        {
+            "city": "PuntaCana",
+            "country": "DominicanRepublic",
+            "code": "PUJ"
+        },
+        {
+            "city": "PuntaGorda",
+            "country": "Belize",
+            "code": "PND"
+        },
+        {
+            "city": "Puttaparthi",
+            "country": "India",
+            "code": "PUT"
+        },
+        {
+            "city": "Pyongyang",
+            "country": "NorthKorea",
+            "code": "FNJ"
+        },
+        {
+            "city": "Qingdao",
+            "country": "China",
+            "code": "TAO"
+        },
+        {
+            "city": "Quebec,PQ",
+            "country": "Canada",
+            "code": "YQB"
+        },
+        {
+            "city": "Quebec,PQ",
+            "country": "Canada",
+            "code": "YQB"
+        },
+        {
+            "city": "Queenstown",
+            "country": "NewZealand",
+            "code": "ZQN"
+        },
+        {
+            "city": "Queretaro",
+            "country": "Mexico",
+            "code": "QRO"
+        },
+        {
+            "city": "Quesnel,BC",
+            "country": "Canada",
+            "code": "YQZ"
+        },
+        {
+            "city": "Quesnel,BC",
+            "country": "Canada",
+            "code": "YQZ"
+        },
+        {
+            "city": "Quimper",
+            "country": "France",
+            "code": "UIP"
+        },
+        {
+            "city": "Quincy,IL",
+            "country": "USA",
+            "code": "UIN"
+        },
+        {
+            "city": "Quito",
+            "country": "Ecuador",
+            "code": "UIO"
+        },
+        {
+            "city": "RachGia",
+            "country": "Vietnam",
+            "code": "VKG"
+        },
+        {
+            "city": "Raleigh,NC",
+            "country": "USA",
+            "code": "RDU"
+        },
+        {
+            "city": "Rangoon",
+            "country": "Myanmar(Burma)",
+            "code": "RGN"
+        },
+        {
+            "city": "RankinInlet,NWT",
+            "country": "Canada",
+            "code": "YRT"
+        },
+        {
+            "city": "RankinInlet,NWT",
+            "country": "Canada",
+            "code": "YRT"
+        },
+        {
+            "city": "Ranong",
+            "country": "Thailand",
+            "code": "UNN"
+        },
+        {
+            "city": "RapidCity,SD",
+            "country": "USA",
+            "code": "RAP"
+        },
+        {
+            "city": "Recife",
+            "country": "Brazil",
+            "code": "REC"
+        },
+        {
+            "city": "RedLake,ON",
+            "country": "Canada",
+            "code": "YRL"
+        },
+        {
+            "city": "RedLake,ON",
+            "country": "Canada",
+            "code": "YRL"
+        },
+        {
+            "city": "Redding,CA",
+            "country": "USA",
+            "code": "RDD"
+        },
+        {
+            "city": "Redmond,OR",
+            "country": "USA",
+            "code": "RDM"
+        },
+        {
+            "city": "ReggiodiCalabria",
+            "country": "Italy",
+            "code": "REG"
+        },
+        {
+            "city": "Regina,SK",
+            "country": "Canada",
+            "code": "YQR"
+        },
+        {
+            "city": "Regina,SK",
+            "country": "Canada",
+            "code": "YQR"
+        },
+        {
+            "city": "Rennes",
+            "country": "France",
+            "code": "RNS"
+        },
+        {
+            "city": "Reno,NV",
+            "country": "USA",
+            "code": "RNO"
+        },
+        {
+            "city": "Reykjavik",
+            "country": "Iceland",
+            "code": "KEF"
+        },
+        {
+            "city": "Reykjavik",
+            "country": "Iceland",
+            "code": "REK-AllAirports"
+        },
+        {
+            "city": "Reykjavik",
+            "country": "Iceland",
+            "code": "RKV"
+        },
+        {
+            "city": "Reynosa",
+            "country": "Mexico",
+            "code": "REX"
+        },
+        {
+            "city": "Rhinelander,WI",
+            "country": "USA",
+            "code": "RHI"
+        },
+        {
+            "city": "Rhodes",
+            "country": "Greece",
+            "code": "RHO"
+        },
+        {
+            "city": "Richmond,VA",
+            "country": "USA",
+            "code": "RIC"
+        },
+        {
+            "city": "Riga",
+            "country": "Latvia",
+            "code": "RIX"
+        },
+        {
+            "city": "Rimini",
+            "country": "Italy",
+            "code": "RMI"
+        },
+        {
+            "city": "RiodeJaneiro",
+            "country": "Brazil",
+            "code": "GIG"
+        },
+        {
+            "city": "RiodeJaneiro",
+            "country": "Brazil",
+            "code": "RIO-AllAirports"
+        },
+        {
+            "city": "RiodeJaneiro",
+            "country": "Brazil",
+            "code": "SDU"
+        },
+        {
+            "city": "Riverton,WY",
+            "country": "USA",
+            "code": "RIW"
+        },
+        {
+            "city": "Riyadh",
+            "country": "SaudiArabia",
+            "code": "RUH"
+        },
+        {
+            "city": "Roanoke,VA",
+            "country": "USA",
+            "code": "ROA"
+        },
+        {
+            "city": "Roberval,PQ",
+            "country": "Canada",
+            "code": "YRJ"
+        },
+        {
+            "city": "Roberval,PQ",
+            "country": "Canada",
+            "code": "YRJ"
+        },
+        {
+            "city": "Rochester,MN",
+            "country": "USA",
+            "code": "RST"
+        },
+        {
+            "city": "Rochester,NY",
+            "country": "USA",
+            "code": "ROC"
+        },
+        {
+            "city": "RockSound",
+            "country": "Bahamas",
+            "code": "RSD"
+        },
+        {
+            "city": "RockSprings,WY",
+            "country": "USA",
+            "code": "RKS"
+        },
+        {
+            "city": "Rockford,IL",
+            "country": "USA",
+            "code": "RFD"
+        },
+        {
+            "city": "Rockhampton,Qld.",
+            "country": "Australia",
+            "code": "ROK"
+        },
+        {
+            "city": "Rockland,ME",
+            "country": "USA",
+            "code": "RKD"
+        },
+        {
+            "city": "Rodez",
+            "country": "France",
+            "code": "RDZ"
+        },
+        {
+            "city": "Roma,Qld.",
+            "country": "Australia",
+            "code": "RMA"
+        },
+        {
+            "city": "Rome",
+            "country": "Italy",
+            "code": "CIA"
+        },
+        {
+            "city": "Rome",
+            "country": "Italy(FCO-LeonardoDaVinci)",
+            "code": "FCO"
+        },
+        {
+            "city": "Rome",
+            "country": "Italy",
+            "code": "ROM-All"
+        },
+        {
+            "city": "Ronne",
+            "country": "Denmark",
+            "code": "RNN"
+        },
+        {
+            "city": "Ronneby",
+            "country": "Sweden",
+            "code": "RNB"
+        },
+        {
+            "city": "Roseau",
+            "country": "Dominica",
+            "code": "DOM"
+        },
+        {
+            "city": "Rostov",
+            "country": "Russia",
+            "code": "ROV"
+        },
+        {
+            "city": "Roswell,NM",
+            "country": "USA",
+            "code": "ROW"
+        },
+        {
+            "city": "Rotorua",
+            "country": "NewZealand",
+            "code": "ROT"
+        },
+        {
+            "city": "Rotterdam",
+            "country": "Netherlands",
+            "code": "RTM"
+        },
+        {
+            "city": "Rouen",
+            "country": "France",
+            "code": "URO"
+        },
+        {
+            "city": "Rouyn-Noranda,PQ",
+            "country": "Canada",
+            "code": "YUY"
+        },
+        {
+            "city": "Rouyn-Noranda,PQ",
+            "country": "Canada",
+            "code": "YUY"
+        },
+        {
+            "city": "Rovaniemi",
+            "country": "Finland",
+            "code": "RVN"
+        },
+        {
+            "city": "RoxasCity",
+            "country": "Philippines",
+            "code": "RXS"
+        },
+        {
+            "city": "Rutland,VT",
+            "country": "USA",
+            "code": "RUT"
+        },
+        {
+            "city": "Rzeszow",
+            "country": "Poland",
+            "code": "RZE"
+        },
+        {
+            "city": "SabaIsland",
+            "country": "Saba",
+            "code": "SAB"
+        },
+        {
+            "city": "Sacramento,CA",
+            "country": "USA",
+            "code": "SMF"
+        },
+        {
+            "city": "Saga",
+            "country": "Japan",
+            "code": "HSG"
+        },
+        {
+            "city": "Saginaw,MI",
+            "country": "USA",
+            "code": "MBS"
+        },
+        {
+            "city": "SaintJohn,NB",
+            "country": "Canada",
+            "code": "YSJ"
+        },
+        {
+            "city": "SaintJohn,NB",
+            "country": "Canada",
+            "code": "YSJ"
+        },
+        {
+            "city": "Saint-Denis",
+            "country": "Reunion",
+            "code": "RUN"
+        },
+        {
+            "city": "Saint-Pierre",
+            "country": "Reunion",
+            "code": "ZSE"
+        },
+        {
+            "city": "Saipan",
+            "country": "NorthernMarianaIslands",
+            "code": "SPN"
+        },
+        {
+            "city": "Salina,KS",
+            "country": "USA",
+            "code": "SLN"
+        },
+        {
+            "city": "Salisbury,MD",
+            "country": "USA",
+            "code": "SBY"
+        },
+        {
+            "city": "SaltLakeCity,UT",
+            "country": "USA",
+            "code": "SLC"
+        },
+        {
+            "city": "Saltillo",
+            "country": "Mexico",
+            "code": "SLW"
+        },
+        {
+            "city": "Salvador",
+            "country": "Brazil",
+            "code": "SSA"
+        },
+        {
+            "city": "Salzburg",
+            "country": "Austria",
+            "code": "SZG"
+        },
+        {
+            "city": "Samsun",
+            "country": "Turkey",
+            "code": "SZF"
+        },
+        {
+            "city": "SanAndres",
+            "country": "Colombia",
+            "code": "ADZ"
+        },
+        {
+            "city": "SanAndros",
+            "country": "Bahamas",
+            "code": "SAQ"
+        },
+        {
+            "city": "SanAngelo,TX",
+            "country": "USA",
+            "code": "SJT"
+        },
+        {
+            "city": "SanAntonio,TX",
+            "country": "USA",
+            "code": "SAT"
+        },
+        {
+            "city": "SanCarlosdeBariloche",
+            "country": "Argentina",
+            "code": "BRC"
+        },
+        {
+            "city": "SanDiego,CA",
+            "country": "USA",
+            "code": "SAN"
+        },
+        {
+            "city": "SanFrancisco,CA",
+            "country": "USA",
+            "code": "QSF-All"
+        },
+        {
+            "city": "SanFrancisco,CA",
+            "country": "USA",
+            "code": "SFO"
+        },
+        {
+            "city": "SanJose",
+            "country": "CostaRica",
+            "code": "SJO"
+        },
+        {
+            "city": "SanJose,CA",
+            "country": "USA",
+            "code": "SJC"
+        },
+        {
+            "city": "SanJuan",
+            "country": "PuertoRico",
+            "code": "SJU"
+        },
+        {
+            "city": "SanLuisObispo,CA",
+            "country": "USA",
+            "code": "SBP"
+        },
+        {
+            "city": "SanLuisPotosi",
+            "country": "Mexico",
+            "code": "SLP"
+        },
+        {
+            "city": "SanSalvador",
+            "country": "ElSalvador",
+            "code": "SAL"
+        },
+        {
+            "city": "SanSebastian",
+            "country": "Spain",
+            "code": "EAS"
+        },
+        {
+            "city": "Sanaa",
+            "country": "Yemen",
+            "code": "SAH"
+        },
+        {
+            "city": "SandPoint,AK",
+            "country": "USA",
+            "code": "SDP"
+        },
+        {
+            "city": "Sandakan,Sabah",
+            "country": "Malaysia",
+            "code": "SDK"
+        },
+        {
+            "city": "Sandefjord",
+            "country": "Norway",
+            "code": "TRF"
+        },
+        {
+            "city": "Sandspit,QueenCharlotteIslands,BC",
+            "country": "Canada",
+            "code": "YZP"
+        },
+        {
+            "city": "Sandspit,QueenCharlotteIslands,BC",
+            "country": "Canada",
+            "code": "YZP"
+        },
+        {
+            "city": "SantaBarbara,CA",
+            "country": "USA",
+            "code": "SBA"
+        },
+        {
+            "city": "SantaCruz",
+            "country": "Spain",
+            "code": "SPC"
+        },
+        {
+            "city": "SantaCruzdeTenerife",
+            "country": "CanaryIslands",
+            "code": "TFN"
+        },
+        {
+            "city": "SantaFe,NM",
+            "country": "USA",
+            "code": "SAF"
+        },
+        {
+            "city": "SantaMaria,CA",
+            "country": "USA",
+            "code": "SMX"
+        },
+        {
+            "city": "SantaMaria,SalIsland",
+            "country": "CapeVerde",
+            "code": "SID"
+        },
+        {
+            "city": "SantaRosa",
+            "country": "Argentina",
+            "code": "RSA"
+        },
+        {
+            "city": "SantaRosa,CA",
+            "country": "USA",
+            "code": "STS"
+        },
+        {
+            "city": "Santander",
+            "country": "Spain",
+            "code": "SDR"
+        },
+        {
+            "city": "Santiago",
+            "country": "Chile",
+            "code": "SCL"
+        },
+        {
+            "city": "Santiago",
+            "country": "DominicanRepublic",
+            "code": "STI"
+        },
+        {
+            "city": "SantoDomingo",
+            "country": "DominicanRepublic",
+            "code": "SDQ"
+        },
+        {
+            "city": "Sanya",
+            "country": "China",
+            "code": "SYX"
+        },
+        {
+            "city": "SaoJoseSoRioPreto",
+            "country": "Brazil",
+            "code": "SJP"
+        },
+        {
+            "city": "SaoPaulo",
+            "country": "Brazil",
+            "code": "CGH"
+        },
+        {
+            "city": "SaoPaulo",
+            "country": "Brazil",
+            "code": "GRU"
+        },
+        {
+            "city": "SaoPaulo",
+            "country": "Brazil",
+            "code": "SAO-AllAirports"
+        },
+        {
+            "city": "Sapporo",
+            "country": "Japan",
+            "code": "CTS"
+        },
+        {
+            "city": "Sapporo",
+            "country": "Japan",
+            "code": "OKD"
+        },
+        {
+            "city": "Sarajevo",
+            "country": "BosniaandHerzegovina",
+            "code": "SJJ"
+        },
+        {
+            "city": "SaranacLake,NY",
+            "country": "USA",
+            "code": "SLK"
+        },
+        {
+            "city": "Sarasota,FL",
+            "country": "USA",
+            "code": "SRQ"
+        },
+        {
+            "city": "Sarnia,ON",
+            "country": "Canada",
+            "code": "YZR"
+        },
+        {
+            "city": "Sarnia,ON",
+            "country": "Canada",
+            "code": "YZR"
+        },
+        {
+            "city": "Saskatoon,SK",
+            "country": "Canada",
+            "code": "YXE"
+        },
+        {
+            "city": "Saskatoon,SK",
+            "country": "Canada",
+            "code": "YXE"
+        },
+        {
+            "city": "SaultSte.Marie,MI",
+            "country": "USA",
+            "code": "CIU"
+        },
+        {
+            "city": "SaultSte.Marie,ON",
+            "country": "Canada",
+            "code": "YAM"
+        },
+        {
+            "city": "SaultSte.Marie,ON",
+            "country": "Canada",
+            "code": "YAM"
+        },
+        {
+            "city": "Savannah,GA",
+            "country": "USA",
+            "code": "SAV"
+        },
+        {
+            "city": "Scottsbluff,NE",
+            "country": "USA",
+            "code": "BFF"
+        },
+        {
+            "city": "Seattle,WA",
+            "country": "USA",
+            "code": "SEA"
+        },
+        {
+            "city": "Semipalatinsk",
+            "country": "Kazakhstan",
+            "code": "PLX"
+        },
+        {
+            "city": "Seoul,Korea",
+            "country": "Republicof",
+            "code": "GMP"
+        },
+        {
+            "city": "Seoul,Korea",
+            "country": "Republicof",
+            "code": "ICN"
+        },
+        {
+            "city": "Sept-Iles,PQ",
+            "country": "Canada",
+            "code": "YZV"
+        },
+        {
+            "city": "Sept-Iles,PQ",
+            "country": "Canada",
+            "code": "YZV"
+        },
+        {
+            "city": "Seville",
+            "country": "Spain",
+            "code": "SVQ"
+        },
+        {
+            "city": "Shanghai",
+            "country": "China",
+            "code": "PVG"
+        },
+        {
+            "city": "Shanghai",
+            "country": "China",
+            "code": "SHA"
+        },
+        {
+            "city": "Shannon",
+            "country": "Ireland",
+            "code": "SNN"
+        },
+        {
+            "city": "Shantou",
+            "country": "China",
+            "code": "SWA"
+        },
+        {
+            "city": "Sharjah",
+            "country": "UnitedArabEmirates",
+            "code": "SHJ"
+        },
+        {
+            "city": "SharmElSheikh",
+            "country": "Egypt",
+            "code": "SSH"
+        },
+        {
+            "city": "ShenandoahValleyAirport,VA",
+            "country": "USA",
+            "code": "SHD"
+        },
+        {
+            "city": "Shenyang",
+            "country": "China",
+            "code": "SHE"
+        },
+        {
+            "city": "Shenzhen",
+            "country": "China",
+            "code": "SZX"
+        },
+        {
+            "city": "Sheridan,WY",
+            "country": "USA",
+            "code": "SHR"
+        },
+        {
+            "city": "Shijiazhuang",
+            "country": "China",
+            "code": "SJW"
+        },
+        {
+            "city": "Shreveport,LA",
+            "country": "USA",
+            "code": "SHV"
+        },
+        {
+            "city": "Sibu,Sarawak",
+            "country": "Malaysia",
+            "code": "SBW"
+        },
+        {
+            "city": "Sidney,MT",
+            "country": "USA",
+            "code": "SDY"
+        },
+        {
+            "city": "SilverCity,NM",
+            "country": "USA",
+            "code": "SVC"
+        },
+        {
+            "city": "Singapore",
+            "country": "Singapore",
+            "code": "SIN"
+        },
+        {
+            "city": "SiouxCity,IA",
+            "country": "USA",
+            "code": "SUX"
+        },
+        {
+            "city": "SiouxFalls,SD",
+            "country": "USA",
+            "code": "FSD"
+        },
+        {
+            "city": "SiouxLookout,ON",
+            "country": "Canada",
+            "code": "YXL"
+        },
+        {
+            "city": "SiouxLookout,ON",
+            "country": "Canada",
+            "code": "YXL"
+        },
+        {
+            "city": "Sitka,AK",
+            "country": "USA",
+            "code": "SIT"
+        },
+        {
+            "city": "Skagway,AK",
+            "country": "USA",
+            "code": "SGY"
+        },
+        {
+            "city": "Skelleftea",
+            "country": "Sweden",
+            "code": "SFT"
+        },
+        {
+            "city": "Skopje",
+            "country": "Macedonia",
+            "code": "SKP"
+        },
+        {
+            "city": "Smithers,BC",
+            "country": "Canada",
+            "code": "YYD"
+        },
+        {
+            "city": "Smithers,BC",
+            "country": "Canada",
+            "code": "YYD"
+        },
+        {
+            "city": "Sofia",
+            "country": "Bulgaria",
+            "code": "SOF"
+        },
+        {
+            "city": "Sonderborg",
+            "country": "Denmark",
+            "code": "SGD"
+        },
+        {
+            "city": "SongpanJiuzhaiHuanglong",
+            "country": "China",
+            "code": "JZH"
+        },
+        {
+            "city": "SouthAndros",
+            "country": "Bahamas",
+            "code": "TZN"
+        },
+        {
+            "city": "SouthBend,IN",
+            "country": "USA",
+            "code": "SBN"
+        },
+        {
+            "city": "Southampton",
+            "country": "England",
+            "code": "SOU"
+        },
+        {
+            "city": "Split",
+            "country": "Croatia",
+            "code": "SPU"
+        },
+        {
+            "city": "Spokane,WA",
+            "country": "USA",
+            "code": "GEG"
+        },
+        {
+            "city": "Springfield,IL",
+            "country": "USA",
+            "code": "SPI"
+        },
+        {
+            "city": "Springfield,MA",
+            "country": "USA",
+            "code": "CEF"
+        },
+        {
+            "city": "Springfield,MO",
+            "country": "USA",
+            "code": "SGF"
+        },
+        {
+            "city": "Springfield,VT",
+            "country": "USA",
+            "code": "VSF"
+        },
+        {
+            "city": "St.Cloud,MN",
+            "country": "USA",
+            "code": "STC"
+        },
+        {
+            "city": "St.George,UT",
+            "country": "USA",
+            "code": "SGU"
+        },
+        {
+            "city": "St.George's",
+            "country": "Grenada",
+            "code": "GND"
+        },
+        {
+            "city": "St.John's",
+            "country": "Antigua",
+            "code": "ANU"
+        },
+        {
+            "city": "St.John's,NF",
+            "country": "Canada",
+            "code": "YYT"
+        },
+        {
+            "city": "St.John's,NF",
+            "country": "Canada",
+            "code": "YYT"
+        },
+        {
+            "city": "St.Louis,MO",
+            "country": "USA",
+            "code": "STL"
+        },
+        {
+            "city": "St.Petersburg",
+            "country": "Russia",
+            "code": "LED"
+        },
+        {
+            "city": "St.Petersburg,FL",
+            "country": "USA",
+            "code": "PIE"
+        },
+        {
+            "city": "StateCollege,PA",
+            "country": "USA",
+            "code": "SCE"
+        },
+        {
+            "city": "Stavanger",
+            "country": "Norway",
+            "code": "SVG"
+        },
+        {
+            "city": "SteamboatSprings,CO",
+            "country": "USA",
+            "code": "SBS"
+        },
+        {
+            "city": "StellaMaris,LongIsland",
+            "country": "Bahamas",
+            "code": "SML"
+        },
+        {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "code": "ARN"
+        },
+        {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "code": "BMA"
+        },
+        {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "code": "STO-All"
+        },
+        {
+            "city": "Stornoway,IsleofLewis",
+            "country": "Scotland",
+            "code": "SYY"
+        },
+        {
+            "city": "Storuman",
+            "country": "Sweden",
+            "code": "SQO"
+        },
+        {
+            "city": "Strasbourg",
+            "country": "France",
+            "code": "SXB"
+        },
+        {
+            "city": "Stuttgart",
+            "country": "Germany",
+            "code": "STR"
+        },
+        {
+            "city": "SubicBay",
+            "country": "Philippines",
+            "code": "SFS"
+        },
+        {
+            "city": "Sudbury,ON",
+            "country": "Canada",
+            "code": "YSB"
+        },
+        {
+            "city": "Sudbury,ON",
+            "country": "Canada",
+            "code": "YSB"
+        },
+        {
+            "city": "Sukhothai",
+            "country": "Thailand",
+            "code": "THS"
+        },
+        {
+            "city": "SunValley,ID",
+            "country": "USA",
+            "code": "SUN"
+        },
+        {
+            "city": "Sundsvall",
+            "country": "Sweden",
+            "code": "SDL"
+        },
+        {
+            "city": "Surabaya,Java",
+            "country": "Indonesia",
+            "code": "SUB"
+        },
+        {
+            "city": "SuratThani",
+            "country": "Thailand",
+            "code": "URT"
+        },
+        {
+            "city": "Suva",
+            "country": "Fiji",
+            "code": "SUV"
+        },
+        {
+            "city": "Sydney,CapeBretonIsland,NS",
+            "country": "Canada",
+            "code": "YQY"
+        },
+        {
+            "city": "Sydney,CapeBretonIsland,NS",
+            "country": "Canada",
+            "code": "YQY"
+        },
+        {
+            "city": "Sydney,N.S.W.",
+            "country": "Australia",
+            "code": "SYD"
+        },
+        {
+            "city": "Syracuse,NY",
+            "country": "USA",
+            "code": "SYR"
+        },
+        {
+            "city": "Szczecin",
+            "country": "Poland",
+            "code": "SZZ"
+        },
+        {
+            "city": "Taba",
+            "country": "Egypt",
+            "code": "TCP"
+        },
+        {
+            "city": "Tabriz",
+            "country": "Iran",
+            "code": "TBZ"
+        },
+        {
+            "city": "Tacloban",
+            "country": "Philippines",
+            "code": "TAC"
+        },
+        {
+            "city": "Taegu",
+            "country": "SouthKorea",
+            "code": "TAE"
+        },
+        {
+            "city": "Tagbilaran",
+            "country": "Philippines",
+            "code": "TAG"
+        },
+        {
+            "city": "Taichung",
+            "country": "Taiwan",
+            "code": "RMQ"
+        },
+        {
+            "city": "Taipei",
+            "country": "Taiwan",
+            "code": "TPE"
+        },
+        {
+            "city": "Taipei",
+            "country": "Taiwan",
+            "code": "TSA"
+        },
+        {
+            "city": "Taiyuan",
+            "country": "China",
+            "code": "TYN"
+        },
+        {
+            "city": "Takamatsu",
+            "country": "Japan",
+            "code": "TAK"
+        },
+        {
+            "city": "Tallahassee,FL",
+            "country": "USA",
+            "code": "TLH"
+        },
+        {
+            "city": "Tallinn",
+            "country": "Estonia",
+            "code": "TLL"
+        },
+        {
+            "city": "Tampa,FL",
+            "country": "USA",
+            "code": "TPA"
+        },
+        {
+            "city": "Tampere",
+            "country": "Finland",
+            "code": "TMP"
+        },
+        {
+            "city": "Tampico",
+            "country": "Mexico",
+            "code": "TAM"
+        },
+        {
+            "city": "Tamworth,N.S.W.",
+            "country": "Australia",
+            "code": "TMW"
+        },
+        {
+            "city": "Tangier",
+            "country": "Morocco",
+            "code": "TNG"
+        },
+        {
+            "city": "Tapachula",
+            "country": "Mexico",
+            "code": "TAP"
+        },
+        {
+            "city": "Tashkent",
+            "country": "Uzbekistan",
+            "code": "TAS"
+        },
+        {
+            "city": "Taupo",
+            "country": "NewZealand",
+            "code": "TUO"
+        },
+        {
+            "city": "Tauranga",
+            "country": "NewZealand",
+            "code": "TRG"
+        },
+        {
+            "city": "Tawau,Sabah",
+            "country": "Malaysia",
+            "code": "TWU"
+        },
+        {
+            "city": "Tbilisi",
+            "country": "Georgia",
+            "code": "TBS"
+        },
+        {
+            "city": "Teesside",
+            "country": "England",
+            "code": "MME"
+        },
+        {
+            "city": "Tegucigalpa",
+            "country": "Honduras",
+            "code": "TGU"
+        },
+        {
+            "city": "Tehran",
+            "country": "Iran",
+            "code": "THR"
+        },
+        {
+            "city": "TelAviv",
+            "country": "Israel",
+            "code": "TLV"
+        },
+        {
+            "city": "Telluride,CO",
+            "country": "USA",
+            "code": "TEX"
+        },
+        {
+            "city": "Temuco",
+            "country": "Chile",
+            "code": "ZCO"
+        },
+        {
+            "city": "TenerifeIsland",
+            "country": "CanaryIslands",
+            "code": "TCI-AllAirports"
+        },
+        {
+            "city": "TenerifeIsland",
+            "country": "CanaryIslands",
+            "code": "TFS"
+        },
+        {
+            "city": "TenerifeIsland",
+            "country": "CanaryIslands",
+            "code": "TVI-AllAirports"
+        },
+        {
+            "city": "Tepic",
+            "country": "Mexico",
+            "code": "TPQ"
+        },
+        {
+            "city": "Termez",
+            "country": "Uzbekistan",
+            "code": "TMJ"
+        },
+        {
+            "city": "Terrace,BC",
+            "country": "Canada",
+            "code": "YXT"
+        },
+        {
+            "city": "Terrace,BC",
+            "country": "Canada",
+            "code": "YXT"
+        },
+        {
+            "city": "Texarkana,AR",
+            "country": "USA",
+            "code": "TXK"
+        },
+        {
+            "city": "TheValley",
+            "country": "Anguilla",
+            "code": "AXA"
+        },
+        {
+            "city": "Thessaloniki",
+            "country": "Greece",
+            "code": "SKG"
+        },
+        {
+            "city": "ThiefRiverFalls,MN",
+            "country": "USA",
+            "code": "TVF"
+        },
+        {
+            "city": "Thira,SantoriniIsland",
+            "country": "Greece",
+            "code": "JTR"
+        },
+        {
+            "city": "Thompson,MB",
+            "country": "Canada",
+            "code": "YTH"
+        },
+        {
+            "city": "Thompson,MB",
+            "country": "Canada",
+            "code": "YTH"
+        },
+        {
+            "city": "ThunderBay,ON",
+            "country": "Canada",
+            "code": "YQT"
+        },
+        {
+            "city": "ThunderBay,ON",
+            "country": "Canada",
+            "code": "YQT"
+        },
+        {
+            "city": "Tianjin",
+            "country": "China",
+            "code": "TSN"
+        },
+        {
+            "city": "Tijuana",
+            "country": "Mexico",
+            "code": "TIJ"
+        },
+        {
+            "city": "Timaru",
+            "country": "NewZealand",
+            "code": "TIU"
+        },
+        {
+            "city": "Timmins,ON",
+            "country": "Canada",
+            "code": "YTS"
+        },
+        {
+            "city": "Timmins,ON",
+            "country": "Canada",
+            "code": "YTS"
+        },
+        {
+            "city": "Tirana",
+            "country": "Albania",
+            "code": "TIA"
+        },
+        {
+            "city": "Tobago",
+            "country": "TrinidadandTobago",
+            "code": "TAB"
+        },
+        {
+            "city": "ToksookBay,AK",
+            "country": "USA",
+            "code": "OOK"
+        },
+        {
+            "city": "Tokyo",
+            "country": "Japan",
+            "code": "HND"
+        },
+        {
+            "city": "Tokyo",
+            "country": "Japan",
+            "code": "NRT"
+        },
+        {
+            "city": "Tokyo",
+            "country": "Japan",
+            "code": "TYO-AllAirports"
+        },
+        {
+            "city": "Toledo,OH",
+            "country": "USA",
+            "code": "TOL"
+        },
+        {
+            "city": "Toluca",
+            "country": "Mexico",
+            "code": "TLC"
+        },
+        {
+            "city": "Tongren",
+            "country": "China",
+            "code": "TEN"
+        },
+        {
+            "city": "Topeka,KS",
+            "country": "USA",
+            "code": "TOP"
+        },
+        {
+            "city": "Toronto,ON",
+            "country": "Canada",
+            "code": "YTO-AllAirports"
+        },
+        {
+            "city": "Toronto,ON",
+            "country": "Canada",
+            "code": "YTZ"
+        },
+        {
+            "city": "Toronto,ON",
+            "country": "Canada",
+            "code": "YYZ"
+        },
+        {
+            "city": "Toronto,ON",
+            "country": "Canada",
+            "code": "YTO-All"
+        },
+        {
+            "city": "Toronto,ON",
+            "country": "Canada",
+            "code": "YTZ"
+        },
+        {
+            "city": "Toronto,ON",
+            "country": "Canada",
+            "code": "YYZ"
+        },
+        {
+            "city": "Torreon",
+            "country": "Mexico",
+            "code": "TRC"
+        },
+        {
+            "city": "Toulon",
+            "country": "France",
+            "code": "TLN"
+        },
+        {
+            "city": "Toulouse",
+            "country": "France",
+            "code": "TLS"
+        },
+        {
+            "city": "Townsville,Qld.",
+            "country": "Australia",
+            "code": "TSV"
+        },
+        {
+            "city": "Trang",
+            "country": "Thailand",
+            "code": "TST"
+        },
+        {
+            "city": "Trat",
+            "country": "Thailand",
+            "code": "TDX"
+        },
+        {
+            "city": "TraverseCity,MI",
+            "country": "USA",
+            "code": "TVC"
+        },
+        {
+            "city": "TreasureCay,AbacoIsland",
+            "country": "Bahamas",
+            "code": "TCB"
+        },
+        {
+            "city": "Trenton,NJ",
+            "country": "USA",
+            "code": "TTN"
+        },
+        {
+            "city": "Tri-CityAirport,TN",
+            "country": "USA",
+            "code": "TRI"
+        },
+        {
+            "city": "Trieste",
+            "country": "Italy",
+            "code": "TRS"
+        },
+        {
+            "city": "Tripoli",
+            "country": "Libya",
+            "code": "TIP"
+        },
+        {
+            "city": "Tromso",
+            "country": "Norway",
+            "code": "TOS"
+        },
+        {
+            "city": "Trondheim",
+            "country": "Norway",
+            "code": "TRD"
+        },
+        {
+            "city": "Truk",
+            "country": "Micronesia",
+            "code": "TKK"
+        },
+        {
+            "city": "Tucson,AZ",
+            "country": "USA",
+            "code": "TUS"
+        },
+        {
+            "city": "Tulsa,OK",
+            "country": "USA",
+            "code": "TUL"
+        },
+        {
+            "city": "Tunis",
+            "country": "Tunisia",
+            "code": "TUN"
+        },
+        {
+            "city": "Tupelo,MS",
+            "country": "USA",
+            "code": "TUP"
+        },
+        {
+            "city": "Turin",
+            "country": "Italy",
+            "code": "TRN"
+        },
+        {
+            "city": "Turku",
+            "country": "Finland",
+            "code": "TKU"
+        },
+        {
+            "city": "TuxtlaGutierrez",
+            "country": "Mexico",
+            "code": "TGZ"
+        },
+        {
+            "city": "TwinFalls,ID",
+            "country": "USA",
+            "code": "TWF"
+        },
+        {
+            "city": "Tyler,TX",
+            "country": "USA",
+            "code": "TYR"
+        },
+        {
+            "city": "UbonRatchathani",
+            "country": "Thailand",
+            "code": "UBP"
+        },
+        {
+            "city": "UdonThani",
+            "country": "Thailand",
+            "code": "UTH"
+        },
+        {
+            "city": "UjungPandang,Sulawesi",
+            "country": "Indonesia",
+            "code": "UPG"
+        },
+        {
+            "city": "UlanBator",
+            "country": "Mongolia",
+            "code": "ULN"
+        },
+        {
+            "city": "Umea",
+            "country": "Sweden",
+            "code": "UME"
+        },
+        {
+            "city": "Una",
+            "country": "Brazil",
+            "code": "UNA"
+        },
+        {
+            "city": "Unalakleet,AK",
+            "country": "USA",
+            "code": "UNK"
+        },
+        {
+            "city": "Urumqi,Sinkiang",
+            "country": "China",
+            "code": "URC"
+        },
+        {
+            "city": "Ushuaia,TierradelFuego",
+            "country": "Argentina",
+            "code": "USH"
+        },
+        {
+            "city": "UstKamenogorsk",
+            "country": "Kazakhstan",
+            "code": "UKK"
+        },
+        {
+            "city": "Utapao",
+            "country": "Thailand",
+            "code": "UTP"
+        },
+        {
+            "city": "Vaasa",
+            "country": "Finland",
+            "code": "VAA"
+        },
+        {
+            "city": "Vail,CO",
+            "country": "USA",
+            "code": "EGE"
+        },
+        {
+            "city": "Val-d'Or,PQ",
+            "country": "Canada",
+            "code": "YVO"
+        },
+        {
+            "city": "Val-d'Or,PQ",
+            "country": "Canada",
+            "code": "YVO"
+        },
+        {
+            "city": "Valdez,AK",
+            "country": "USA",
+            "code": "VDZ"
+        },
+        {
+            "city": "Valdivia",
+            "country": "Chile",
+            "code": "ZAL"
+        },
+        {
+            "city": "Valdosta,GA",
+            "country": "USA",
+            "code": "VLD"
+        },
+        {
+            "city": "Valencia",
+            "country": "Spain",
+            "code": "VLC"
+        },
+        {
+            "city": "Valladolid",
+            "country": "Spain",
+            "code": "VLL"
+        },
+        {
+            "city": "Valletta",
+            "country": "Malta",
+            "code": "MLA"
+        },
+        {
+            "city": "Vancouver,BC",
+            "country": "Canada",
+            "code": "YVR"
+        },
+        {
+            "city": "Vancouver,BC",
+            "country": "Canada",
+            "code": "YVR"
+        },
+        {
+            "city": "Varanasi",
+            "country": "India",
+            "code": "VNS"
+        },
+        {
+            "city": "Varna",
+            "country": "Bulgaria",
+            "code": "VAR"
+        },
+        {
+            "city": "Vasteras",
+            "country": "Sweden",
+            "code": "VST"
+        },
+        {
+            "city": "Vaxjo",
+            "country": "Sweden",
+            "code": "VXO"
+        },
+        {
+            "city": "Venice",
+            "country": "Italy",
+            "code": "VCE"
+        },
+        {
+            "city": "Veracruz",
+            "country": "Mexico",
+            "code": "VER"
+        },
+        {
+            "city": "Verona",
+            "country": "Italy",
+            "code": "VRN"
+        },
+        {
+            "city": "Victoria,BC",
+            "country": "Canada",
+            "code": "YYJ"
+        },
+        {
+            "city": "Victoria,BC",
+            "country": "Canada",
+            "code": "YYJ"
+        },
+        {
+            "city": "Victoria,MaheIsland",
+            "country": "Seychelles",
+            "code": "SEZ"
+        },
+        {
+            "city": "Victoria,TX",
+            "country": "USA",
+            "code": "VCT"
+        },
+        {
+            "city": "Vienna",
+            "country": "Austria",
+            "code": "VIE"
+        },
+        {
+            "city": "Vientiane",
+            "country": "Laos",
+            "code": "VTE"
+        },
+        {
+            "city": "Vieques",
+            "country": "PuertoRico",
+            "code": "VQS"
+        },
+        {
+            "city": "VieuxFort",
+            "country": "St.Lucia",
+            "code": "UVF"
+        },
+        {
+            "city": "Vigo",
+            "country": "Spain",
+            "code": "VGO"
+        },
+        {
+            "city": "Vilhelmina",
+            "country": "Sweden",
+            "code": "VHM"
+        },
+        {
+            "city": "Villahermosa",
+            "country": "Mexico",
+            "code": "VSA"
+        },
+        {
+            "city": "Vilnius",
+            "country": "Lithuania",
+            "code": "VNO"
+        },
+        {
+            "city": "VinhCity",
+            "country": "Vietnam",
+            "code": "VII"
+        },
+        {
+            "city": "Visalia,CA",
+            "country": "USA",
+            "code": "VIS"
+        },
+        {
+            "city": "Visby",
+            "country": "Sweden",
+            "code": "VBY"
+        },
+        {
+            "city": "Vitoria",
+            "country": "Spain",
+            "code": "VIT"
+        },
+        {
+            "city": "Vladivostok,Siberia",
+            "country": "Russia",
+            "code": "VVO"
+        },
+        {
+            "city": "Volgograd",
+            "country": "Russia",
+            "code": "VOG"
+        },
+        {
+            "city": "Wabush,Labrador,NF",
+            "country": "Canada",
+            "code": "YWK"
+        },
+        {
+            "city": "Wabush,Labrador,NF",
+            "country": "Canada",
+            "code": "YWK"
+        },
+        {
+            "city": "Waco,TX",
+            "country": "USA",
+            "code": "ACT"
+        },
+        {
+            "city": "Wagga-Wagga,N.S.W.",
+            "country": "Australia",
+            "code": "WGA"
+        },
+        {
+            "city": "Wajima",
+            "country": "Japan",
+            "code": "NTQ"
+        },
+        {
+            "city": "WallaWalla,WA",
+            "country": "USA",
+            "code": "ALW"
+        },
+        {
+            "city": "Wanganui",
+            "country": "NewZealand",
+            "code": "WAG"
+        },
+        {
+            "city": "Warri",
+            "country": "Nigeria",
+            "code": "QRW"
+        },
+        {
+            "city": "Warsaw",
+            "country": "Poland",
+            "code": "WAW"
+        },
+        {
+            "city": "WashingtonDC",
+            "country": "USA",
+            "code": "DCA"
+        },
+        {
+            "city": "WashingtonDC",
+            "country": "USA",
+            "code": "IAD"
+        },
+        {
+            "city": "WashingtonDC",
+            "country": "USA",
+            "code": "WAS-AllAirports"
+        },
+        {
+            "city": "Waterloo,IA",
+            "country": "USA",
+            "code": "ALO"
+        },
+        {
+            "city": "Watertown,NY",
+            "country": "USA",
+            "code": "ART"
+        },
+        {
+            "city": "Watertown,SD",
+            "country": "USA",
+            "code": "ATY"
+        },
+        {
+            "city": "Wausau,WI",
+            "country": "USA",
+            "code": "CWA"
+        },
+        {
+            "city": "Weipa,Qld.",
+            "country": "Australia",
+            "code": "WEI"
+        },
+        {
+            "city": "Wellington",
+            "country": "NewZealand",
+            "code": "WLG"
+        },
+        {
+            "city": "Wenatchee,WA",
+            "country": "USA",
+            "code": "EAT"
+        },
+        {
+            "city": "WestPalmBeach,FL",
+            "country": "USA",
+            "code": "PBI"
+        },
+        {
+            "city": "WestYellowstone,MT",
+            "country": "USA",
+            "code": "WYS"
+        },
+        {
+            "city": "Westport",
+            "country": "NewZealand",
+            "code": "WSZ"
+        },
+        {
+            "city": "Whakatane",
+            "country": "NewZealand",
+            "code": "WHK"
+        },
+        {
+            "city": "Whangarei",
+            "country": "NewZealand",
+            "code": "WRE"
+        },
+        {
+            "city": "WhitePlains,NY",
+            "country": "USA",
+            "code": "HPN"
+        },
+        {
+            "city": "Whitehorse,YT",
+            "country": "Canada",
+            "code": "YXY"
+        },
+        {
+            "city": "Whitehorse,YT",
+            "country": "Canada",
+            "code": "YXY"
+        },
+        {
+            "city": "Whyalla,S.A.",
+            "country": "Australia",
+            "code": "WYA"
+        },
+        {
+            "city": "WichitaFalls,TX",
+            "country": "USA",
+            "code": "SPS"
+        },
+        {
+            "city": "Wichita,KS",
+            "country": "USA",
+            "code": "ICT"
+        },
+        {
+            "city": "Wick",
+            "country": "Scotland",
+            "code": "WIC"
+        },
+        {
+            "city": "Wilkes-Barre,PA",
+            "country": "USA",
+            "code": "AVP"
+        },
+        {
+            "city": "Willemstad",
+            "country": "Curacao",
+            "code": "CUR"
+        },
+        {
+            "city": "WilliamsLake,BC",
+            "country": "Canada",
+            "code": "YWL"
+        },
+        {
+            "city": "WilliamsLake,BC",
+            "country": "Canada",
+            "code": "YWL"
+        },
+        {
+            "city": "Williamsport,PA",
+            "country": "USA",
+            "code": "IPT"
+        },
+        {
+            "city": "Williston,ND",
+            "country": "USA",
+            "code": "ISN"
+        },
+        {
+            "city": "Wilmington,DE",
+            "country": "USA",
+            "code": "ILG"
+        },
+        {
+            "city": "Wilmington,NC",
+            "country": "USA",
+            "code": "ILM"
+        },
+        {
+            "city": "Windsor,ON",
+            "country": "Canada",
+            "code": "YQG"
+        },
+        {
+            "city": "Windsor,ON",
+            "country": "Canada",
+            "code": "YQG"
+        },
+        {
+            "city": "Winnipeg,MB",
+            "country": "Canada",
+            "code": "YWG"
+        },
+        {
+            "city": "Winnipeg,MB",
+            "country": "Canada",
+            "code": "YWG"
+        },
+        {
+            "city": "WolfPoint,MT",
+            "country": "USA",
+            "code": "OLF"
+        },
+        {
+            "city": "Worland,WY",
+            "country": "USA",
+            "code": "WRL"
+        },
+        {
+            "city": "Wrangell,AK",
+            "country": "USA",
+            "code": "WRG"
+        },
+        {
+            "city": "Wroclaw",
+            "country": "Poland",
+            "code": "WRO"
+        },
+        {
+            "city": "Wuhan",
+            "country": "China",
+            "code": "WUH"
+        },
+        {
+            "city": "Xi'an",
+            "country": "China",
+            "code": "XIY"
+        },
+        {
+            "city": "Xiamen",
+            "country": "China",
+            "code": "XMN"
+        },
+        {
+            "city": "Xichang",
+            "country": "China",
+            "code": "XIC"
+        },
+        {
+            "city": "Yakima,WA",
+            "country": "USA",
+            "code": "YKM"
+        },
+        {
+            "city": "Yakutat,AK",
+            "country": "USA",
+            "code": "YAK"
+        },
+        {
+            "city": "Yamagata",
+            "country": "Japan",
+            "code": "GAJ"
+        },
+        {
+            "city": "Yangyang,Korea",
+            "country": "Republicof",
+            "code": "YNY"
+        },
+        {
+            "city": "Yanji",
+            "country": "China",
+            "code": "YNJ"
+        },
+        {
+            "city": "Yantai",
+            "country": "China",
+            "code": "YNT"
+        },
+        {
+            "city": "Yaounde",
+            "country": "Cameroon",
+            "code": "NSI"
+        },
+        {
+            "city": "Yaounde",
+            "country": "Cameroon",
+            "code": "YAO"
+        },
+        {
+            "city": "Yap",
+            "country": "Micronesia",
+            "code": "YAP"
+        },
+        {
+            "city": "Yellowknife,NWT",
+            "country": "Canada",
+            "code": "YZF"
+        },
+        {
+            "city": "Yellowknife,NWT",
+            "country": "Canada",
+            "code": "YZF"
+        },
+        {
+            "city": "Yerevan",
+            "country": "Armenia",
+            "code": "EVN"
+        },
+        {
+            "city": "Yogyakarta,Java",
+            "country": "Indonesia",
+            "code": "JOG"
+        },
+        {
+            "city": "Yuma,AZ",
+            "country": "USA",
+            "code": "YUM"
+        },
+        {
+            "city": "Zacatecas",
+            "country": "Mexico",
+            "code": "ZCL"
+        },
+        {
+            "city": "Zadar",
+            "country": "Croatia",
+            "code": "ZAD"
+        },
+        {
+            "city": "Zagreb",
+            "country": "Croatia",
+            "code": "ZAG"
+        },
+        {
+            "city": "Zamboanga",
+            "country": "Philippines",
+            "code": "ZAM"
+        },
+        {
+            "city": "Zanzibar",
+            "country": "Tanzania",
+            "code": "ZNZ"
+        },
+        {
+            "city": "Zaragoza",
+            "country": "Spain",
+            "code": "ZAZ"
+        },
+        {
+            "city": "Zhengzhou",
+            "country": "China",
+            "code": "CGO"
+        },
+        {
+            "city": "Zhoushan",
+            "country": "China",
+            "code": "HSN"
+        },
+        {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "code": "ZRH"
+        }
+    ]
+}
